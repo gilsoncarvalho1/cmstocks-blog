@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "analise-baleias-eth-2026",
+    "date": "2026-04-06", 
+    "category": "INSIGHT",
+    "languages": {
+      "en": {
+        "title": "On-Chain Analysis: Whale Accumulation in $ETH",
+        "excerpt": "While the market moves sideways, institutional wallets are increasing positions.",
+        "content": "<h2>Market Outlook</h2><p>Ethereum's current scenario shows bullish divergence...</p>"
+      },
+      "pt": {
+        "title": "Análise On-Chain: Acúmulo de Baleias em $ETH",
+        "excerpt": "Enquanto o mercado lateraliza, carteiras institucionais aumentam posições.",
+        "content": "<h2>Cenário de Mercado</h2><p>O cenário atual do Ethereum mostra uma divergência otimista...</p>"
+      },
+      "fr": {
+        "title": "Analyse On-Chain : Accumulation de Baleines sur $ETH",
+        "excerpt": "Alors que le marché stagne, les portefeuilles institutionnels augmentent leurs positions.",
+        "content": "<h2>Perspectives du Marché</h2><p>Le scénario actuel d'Ethereum montre une divergence haussière...</p>"
+      }
+    }
+  },
+
+
+{
+  "slug": "liquidity-gaps-magnet-effect",
+  "date": "2026-04-07", 
+  "category": "TECHNICAL",
+  "languages": {
+    "en": {
+      "title": "Liquidity Gaps: The Magnet Effect in Current Price Action",
+      "excerpt": "Why price is being drawn to specific levels and what the CMStocks heatmaps are revealing.",
+      "content": "<p>In the last 24 hours, we've seen a significant build-up of buy orders. <strong>Liquidity gaps</strong> act as magnets for price action.</p><h2>The Breakdown</h2><p>Our heatmaps show a concentration of liquidity at the $72,500 level. Expect volatility as we approach this zone.</p>"
+    },
+    "pt": {
+      "title": "Gaps de Liquidez: O Efeito Magnético no Preço Atual",
+      "excerpt": "Por que o preço está sendo atraído para níveis específicos e o que os mapas de calor CMStocks revelam.",
+      "content": "<p>Nas últimas 24 horas, vimos um acúmulo significativo de ordens de compra. <strong>Gaps de liquidez</strong> funcionam como ímãs.</p><h2>Análise Detalhada</h2><p>Nossos mapas de calor mostram concentração de liquidez no nível de $72.500. Espere volatilidade ao atingir esta zona.</p>"
+    },
+    "fr": {
+      "title": "Gaps de Liquidité : L'Effet Aimant sur le Prix Actuel",
+      "excerpt": "Pourquoi le prix est attiré par des niveaux spécifiques et ce que les cartes thermiques révèlent.",
+      "content": "<p>Au cours des dernières 24 heures, nous avons constaté une accumulation d'ordres d'achat. Les <strong>gaps de liquidité</strong> agissent comme des aimants.</p><h2>L'Analyse</h2><p>Nos cartes montrent une concentration de liquidité à 72 500 $. Attendez-vous à de la volatilité.</p>"
+    }
+  }
+},
+
+{
+  "slug": "whale-tracking-institutional-silence",
+  "date": "2026-04-08", 
+  "category": "ON-CHAIN",
+  "languages": {
+    "en": {
+      "title": "Whale Tracking: The Meaning Behind Institutional Silence",
+      "excerpt": "Large wallets are moving to cold storage. Is this the calm before the storm?",
+      "content": "<p>On-chain data confirms that over 15,000 BTC left exchanges today. This <strong>outflow</strong> usually signals long-term holding patterns by institutional players.</p>"
+    },
+    "pt": {
+      "title": "Whale Tracking: O Significado por trás do Silêncio Institucional",
+      "excerpt": "Grandes carteiras estão movendo fundos para cold storage. Seria a calma antes da tempestade?",
+      "content": "<p>Dados on-chain confirmam que mais de 15.000 BTC saíram das exchanges hoje. Esse <strong>outflow</strong> geralmente sinaliza acumulação de longo prazo.</p>"
+    },
+    "fr": {
+      "title": "Whale Tracking : Le Silence des Institutions",
+      "excerpt": "Les portefeuilles importants déplacent leurs fonds vers le stockage à froid. Le calme avant la tempête ?",
+      "content": "<p>Les données on-chain confirment que plus de 15 000 BTC ont quitté les bourses aujourd'hui. Cet <strong>outflow</strong> signale une accumulation.</p>"
+    }
+  }
+},
+
+{
+  "slug": "derivatives-market-leverage-warning",
+  "date": "2026-04-09", 
+  "category": "RISK",
+  "languages": {
+    "en": {
+      "title": "Derivatives Alert: High Leverage Warning",
+      "excerpt": "Open interest is at an all-time high. A long squeeze might be imminent.",
+      "content": "<p>The estimated leverage ratio has reached critical levels. When <strong>Open Interest</strong> spikes alongside flat price action, a flush is often the result.</p>"
+    },
+    "pt": {
+      "title": "Alerta de Derivativos: Aviso de Alta Alavancagem",
+      "excerpt": "O Open Interest está em níveis recordes. Um long squeeze pode estar iminente.",
+      "content": "<p>O índice de alavancagem estimada atingiu níveis críticos. Quando o <strong>Open Interest</strong> sobe com preço lateral, uma limpeza costuma ocorrer.</p>"
+    },
+    "fr": {
+      "title": "Alerte Dérivés : Risque d'Effet de Levier Élevé",
+      "excerpt": "L'Open Interest est à un niveau record. Un long squeeze est possible.",
+      "content": "<p>Le ratio de levier a atteint des niveaux critiques. Une purge est souvent la conséquence d'un <strong>Open Interest</strong> trop élevé.</p>"
+    }
+  }
+},
+
+{
+  "slug": "altcoin-season-reality-check",
+  "date": "2026-04-10", 
+  "category": "MARKET",
+  "languages": {
+    "en": {
+      "title": "Altcoin Season: A Reality Check for Q2",
+      "excerpt": "Bitcoin dominance is testing a key resistance. Is it time for Alts to shine?",
+      "content": "<p>The Bitcoin Dominance (BTC.D) chart is the most important indicator right now. If we break below 52%, the <strong>Altseason</strong> will officially begin.</p>"
+    },
+    "pt": {
+      "title": "Altcoin Season: Uma Dose de Realidade para o Q2",
+      "excerpt": "A dominância do Bitcoin está testando uma resistência chave. É a vez das Alts?",
+      "content": "<p>O gráfico de Dominância do Bitcoin (BTC.D) é o indicador mais importante agora. Se cairmos abaixo de 52%, a <strong>Altseason</strong> começa oficialmente.</p>"
+    },
+    "fr": {
+      "title": "Altcoin Season : Réalité du Deuxième Trimestre",
+      "excerpt": "La dominance du Bitcoin teste une résistance. Est-ce le moment pour les Alts ?",
+      "content": "<p>Le graphique de dominance du Bitcoin (BTC.D) est crucial. Si nous descendons sous 52%, l'<strong>Altseason</strong> commencera officiellement.</p>"
+    }
+  }
+}
+]

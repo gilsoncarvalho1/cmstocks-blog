@@ -1,0 +1,39 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-emerald-cm: #10b981;
+  --color-dark-card: #0d0d0d;
+  --color-dark-border: #1a1a1a;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-black text-gray-100 antialiased;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Estilo dos Títulos com a borda lateral verde do CMStocks */
+.section-title {
+  @apply text-xl font-bold my-8 text-white border-l-4 border-emerald-cm pl-3;
+}
+
+/* Customização do Markdown para o post */
+.prose {
+  --tw-prose-body: #aaa;
+  --tw-prose-headings: #fff;
+  --tw-prose-links: #10b981;
+  --tw-prose-bold: #fff;
+  --tw-prose-quotes: #10b981;
+}
+
+.prose h1, .prose h2 {
+  @apply border-l-4 border-emerald-cm pl-3 mb-6;
+}
+
+.prose blockquote {
+  @apply border-emerald-cm bg-emerald-cm/5 py-1 px-4 rounded-r-lg;
+}
