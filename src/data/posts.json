@@ -113,5 +113,93 @@
       "content": "<p>Le graphique de dominance du Bitcoin (BTC.D) est crucial. Si nous descendons sous 52%, l'<strong>Altseason</strong> commencera officiellement.</p>"
     }
   }
-}
+},
+
+[
+  {
+    "slug": "bitcoin-breakout-72k",
+    "date": "2026-04-11",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Breaks $72k: Geopolitical Relief",
+        "excerpt": "BTC surges as tensions ease. Is the path to a new All-Time High finally clear?",
+        "content": "<p>Market sentiment shifted rapidly today as geopolitical tensions between the US and Iran showed signs of de-escalation. Bitcoin (BTC) responded with a strong bounce, reclaiming the <strong>$72,000</strong> level.</p><p>On-chain data on the <strong>cmStocks</strong> terminal shows a significant spike in institutional buy orders at the $68k support zone, suggesting that 'smart money' is positioning for a breakout towards $75k.</p>"
+      },
+      "pt": {
+        "title": "Bitcoin Rompe US$ 72k: Alívio Geopolítico",
+        "excerpt": "BTC sobe forte com redução de tensões. O caminho para a nova máxima está livre?",
+        "content": "<p>O sentimento do mercado mudou rapidamente hoje com sinais de desescalada entre EUA e Irã. O Bitcoin (BTC) respondeu com um salto robusto, recuperando o patamar de <strong>US$ 72.000</strong>.</p><p>Dados on-chain no terminal <strong>cmStocks</strong> mostram um pico de ordens de compra institucional no suporte de US$ 68k, sugerindo que o 'smart money' está se posicionando para um rompimento rumo aos US$ 75k.</p>"
+      }
+    }
+  },
+  {
+    "slug": "dividend-yield-vs-selic",
+    "date": "2026-04-12",
+    "category": "STOCKS",
+    "languages": {
+      "en": {
+        "title": "Selic at 14.75%: Can Dividends Still Win?",
+        "excerpt": "Why utility stocks are still attractive despite high interest rates in Brazil.",
+        "content": "<p>With the Selic rate at 14.75%, many investors are fleeing to fixed income. However, high-quality utility stocks like <strong>CPFL (CPFE3)</strong> are offering yields that, when adjusted for growth, still outperform the CDI.</p><p>The secret lies in the payout stability. Use our screener to compare debt-to-equity ratios and find the safest yields for your portfolio.</p>"
+      },
+      "pt": {
+        "title": "Selic a 14,75%: Dividendos ainda valem a pena?",
+        "excerpt": "Por que ações de utilidade pública continuam atrativas mesmo com juros altos.",
+        "content": "<p>Com a Selic em 14,75%, muitos investidores correm para a renda fixa. No entanto, ações de qualidade como <strong>CPFL (CPFE3)</strong> oferecem yields que, somados ao crescimento, ainda superam o CDI no longo prazo.</p><p>O segredo está na estabilidade do payout. Use nosso screener para comparar dívida/patrimônio e encontrar os yields mais seguros para sua carteira.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ibovespa-record-analysis",
+    "date": "2026-04-13",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Ibovespa at 197k: Record or Bubble?",
+        "excerpt": "Foreign capital is flowing into Brazilian blue chips. Let's look at the data.",
+        "content": "<p>The Ibovespa reached an impressive <strong>197,000 points</strong> today. With the BRL stabilizing at 5.01 per USD, Brazilian assets look cheap for international funds.</p><p>However, technical indicators on <strong>cmStocks</strong> show the RSI entering overbought territory. A healthy correction to test the 190k support might be coming before we hit the psychological 200k mark.</p>"
+      },
+      "pt": {
+        "title": "Ibovespa aos 197k: Recorde ou Bolha?",
+        "excerpt": "Capital estrangeiro flui para as blue chips brasileiras. Vamos analisar os dados.",
+        "content": "<p>O Ibovespa atingiu impressionantes <strong>197.000 pontos</strong> hoje. Com o dólar estável em R$ 5,01, os ativos brasileiros parecem baratos para fundos internacionais.</p><p>Contudo, indicadores técnicos no <strong>cmStocks</strong> mostram o RSI entrando em zona de sobrecompra. Uma correção saudável para testar o suporte de 190k pode ocorrer antes de buscarmos os 200k.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-institutional-staking",
+    "date": "2026-04-14",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "The Silent Ethereum Supply Shock",
+        "excerpt": "30% of ETH is now locked in staking. What happens when demand spikes?",
+        "content": "<p>While everyone watches Bitcoin, Ethereum is facing a massive supply shock. Over 30% of the total supply is now staked, reducing exchange liquidity.</p><p>Combined with RWA (Real World Assets) tokenization, ETH is becoming the backbone of digital finance. Watch the $2,300 resistance closely this week.</p>"
+      },
+      "pt": {
+        "title": "O Choque de Oferta Silencioso do Ethereum",
+        "excerpt": "30% do ETH está travado em staking. O que acontece quando a demanda subir?",
+        "content": "<p>Enquanto todos olham para o Bitcoin, o Ethereum enfrenta um choque de oferta massivo. Mais de 30% do suprimento total está em staking, reduzindo a liquidez nas corretoras.</p><p>Combinado com a tokenização de ativos reais (RWA), o ETH está se tornando a espinha dorsal das finanças digitais. Observe a resistência de US$ 2.300 de perto esta semana.</p>"
+      }
+    }
+  },
+  {
+    "slug": "trading-psychology-noise",
+    "date": "2026-04-15",
+    "category": "EDUCATIONAL",
+    "languages": {
+      "en": {
+        "title": "Filtering Market Noise in 2026",
+        "excerpt": "Information overload is a trader's worst enemy. Here is how to simplify.",
+        "content": "<p>Trading in 2026 is about filtering, not finding more data. With AI-driven news cycles, prices move faster than ever.</p><p>Your edge is a clean workspace. Use the <strong>cmStocks</strong> terminal to focus on just three pillars: Price Action, Volume, and Liquidity. Stop looking at 20 indicators and start looking at the chart.</p>"
+      },
+      "pt": {
+        "title": "Filtrando o Ruído do Mercado em 2026",
+        "excerpt": "O excesso de informação é o maior inimigo do trader. Veja como simplificar.",
+        "content": "<p>Operar em 2026 é sobre filtrar, não encontrar mais dados. Com ciclos de notícias movidos por IA, os preços se movem mais rápido do que nunca.</p><p>Sua vantagem é um workspace limpo. Use o terminal <strong>cmStocks</strong> para focar em apenas três pilares: Price Action, Volume e Liquidez. Pare de olhar 20 indicadores e foque no gráfico.</p>"
+      }
+    }
+  }
+]
 ]
