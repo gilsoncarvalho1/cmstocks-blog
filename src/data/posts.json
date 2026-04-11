@@ -23,113 +23,112 @@
   },
 
 
-{
-  "slug": "liquidity-gaps-magnet-effect",
-  "date": "2026-04-07", 
-  "category": "TECHNICAL",
-  "languages": {
-    "en": {
-      "title": "Liquidity Gaps: The Magnet Effect in Current Price Action",
-      "excerpt": "Why price is being drawn to specific levels and what the CMStocks heatmaps are revealing.",
-      "content": "<p>In the last 24 hours, we've seen a significant build-up of buy orders. <strong>Liquidity gaps</strong> act as magnets for price action.</p><h2>The Breakdown</h2><p>Our heatmaps show a concentration of liquidity at the $72,500 level. Expect volatility as we approach this zone.</p>"
-    },
-    "pt": {
-      "title": "Gaps de Liquidez: O Efeito Magnético no Preço Atual",
-      "excerpt": "Por que o preço está sendo atraído para níveis específicos e o que os mapas de calor CMStocks revelam.",
-      "content": "<p>Nas últimas 24 horas, vimos um acúmulo significativo de ordens de compra. <strong>Gaps de liquidez</strong> funcionam como ímãs.</p><h2>Análise Detalhada</h2><p>Nossos mapas de calor mostram concentração de liquidez no nível de $72.500. Espere volatilidade ao atingir esta zona.</p>"
-    },
-    "fr": {
-      "title": "Gaps de Liquidité : L'Effet Aimant sur le Prix Actuel",
-      "excerpt": "Pourquoi le prix est attiré par des niveaux spécifiques et ce que les cartes thermiques révèlent.",
-      "content": "<p>Au cours des dernières 24 heures, nous avons constaté une accumulation d'ordres d'achat. Les <strong>gaps de liquidité</strong> agissent comme des aimants.</p><h2>L'Analyse</h2><p>Nos cartes montrent une concentration de liquidité à 72 500 $. Attendez-vous à de la volatilité.</p>"
+  {
+    "slug": "liquidity-gaps-magnet-effect",
+    "date": "2026-04-07", 
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Liquidity Gaps: The Magnet Effect in Current Price Action",
+        "excerpt": "Why price is being drawn to specific levels and what the CMStocks heatmaps are revealing.",
+        "content": "<p>In the last 24 hours, we've seen a significant build-up of buy orders. <strong>Liquidity gaps</strong> act as magnets for price action.</p><h2>The Breakdown</h2><p>Our heatmaps show a concentration of liquidity at the $72,500 level. Expect volatility as we approach this zone.</p>"
+      },
+      "pt": {
+        "title": "Gaps de Liquidez: O Efeito Magnético no Preço Atual",
+        "excerpt": "Por que o preço está sendo atraído para níveis específicos e o que os mapas de calor CMStocks revelam.",
+        "content": "<p>Nas últimas 24 horas, vimos um acúmulo significativo de ordens de compra. <strong>Gaps de liquidez</strong> funcionam como ímãs.</p><h2>Análise Detalhada</h2><p>Nossos mapas de calor mostram concentração de liquidez no nível de $72.500. Espere volatilidade ao atingir esta zona.</p>"
+      },
+      "fr": {
+        "title": "Gaps de Liquidité : L'Effet Aimant sur le Prix Actuel",
+        "excerpt": "Pourquoi le prix est attiré par des niveaux spécifiques et ce que les cartes thermiques révèlent.",
+        "content": "<p>Au cours des dernières 24 heures, nous avons constaté une accumulation d'ordres d'achat. Les <strong>gaps de liquidité</strong> agissent comme des aimants.</p><h2>L'Analyse</h2><p>Nos cartes montrent une concentration de liquidité à 72 500 $. Attendez-vous à de la volatilité.</p>"
+      }
     }
-  }
-},
+  },
 
-{
-  "slug": "whale-tracking-institutional-silence",
-  "date": "2026-04-08", 
-  "category": "ON-CHAIN",
-  "languages": {
-    "en": {
-      "title": "Whale Tracking: The Meaning Behind Institutional Silence",
-      "excerpt": "Large wallets are moving to cold storage. Is this the calm before the storm?",
-      "content": "<p>On-chain data confirms that over 15,000 BTC left exchanges today. This <strong>outflow</strong> usually signals long-term holding patterns by institutional players.</p>"
-    },
-    "pt": {
-      "title": "Whale Tracking: O Significado por trás do Silêncio Institucional",
-      "excerpt": "Grandes carteiras estão movendo fundos para cold storage. Seria a calma antes da tempestade?",
-      "content": "<p>Dados on-chain confirmam que mais de 15.000 BTC saíram das exchanges hoje. Esse <strong>outflow</strong> geralmente sinaliza acumulação de longo prazo.</p>"
-    },
-    "fr": {
-      "title": "Whale Tracking : Le Silence des Institutions",
-      "excerpt": "Les portefeuilles importants déplacent leurs fonds vers le stockage à froid. Le calme avant la tempête ?",
-      "content": "<p>Les données on-chain confirment que plus de 15 000 BTC ont quitté les bourses aujourd'hui. Cet <strong>outflow</strong> signale une accumulation.</p>"
+  {
+    "slug": "whale-tracking-institutional-silence",
+    "date": "2026-04-08", 
+    "category": "ON-CHAIN",
+    "languages": {
+      "en": {
+        "title": "Whale Tracking: The Meaning Behind Institutional Silence",
+        "excerpt": "Large wallets are moving to cold storage. Is this the calm before the storm?",
+        "content": "<p>On-chain data confirms that over 15,000 BTC left exchanges today. This <strong>outflow</strong> usually signals long-term holding patterns by institutional players.</p>"
+      },
+      "pt": {
+        "title": "Whale Tracking: O Significado por trás do Silêncio Institucional",
+        "excerpt": "Grandes carteiras estão movendo fundos para cold storage. Seria a calma antes da tempestade?",
+        "content": "<p>Dados on-chain confirmam que mais de 15.000 BTC saíram das exchanges hoje. Esse <strong>outflow</strong> geralmente sinaliza acumulação de longo prazo.</p>"
+      },
+      "fr": {
+        "title": "Whale Tracking : Le Silence des Institutions",
+        "excerpt": "Les portefeuilles importants déplacent leurs fonds vers le stockage à froid. Le calme avant la tempête ?",
+        "content": "<p>Les données on-chain confirment que plus de 15 000 BTC ont quitté les bourses aujourd'hui. Cet <strong>outflow</strong> signale une accumulation.</p>"
+      }
     }
-  }
-},
+  },
 
-{
-  "slug": "derivatives-market-leverage-warning",
-  "date": "2026-04-09", 
-  "category": "RISK",
-  "languages": {
-    "en": {
-      "title": "Derivatives Alert: High Leverage Warning",
-      "excerpt": "Open interest is at an all-time high. A long squeeze might be imminent.",
-      "content": "<p>The estimated leverage ratio has reached critical levels. When <strong>Open Interest</strong> spikes alongside flat price action, a flush is often the result.</p>"
-    },
-    "pt": {
-      "title": "Alerta de Derivativos: Aviso de Alta Alavancagem",
-      "excerpt": "O Open Interest está em níveis recordes. Um long squeeze pode estar iminente.",
-      "content": "<p>O índice de alavancagem estimada atingiu níveis críticos. Quando o <strong>Open Interest</strong> sobe com preço lateral, uma limpeza costuma ocorrer.</p>"
-    },
-    "fr": {
-      "title": "Alerte Dérivés : Risque d'Effet de Levier Élevé",
-      "excerpt": "L'Open Interest est à un niveau record. Un long squeeze est possible.",
-      "content": "<p>Le ratio de levier a atteint des niveaux critiques. Une purge est souvent la conséquence d'un <strong>Open Interest</strong> trop élevé.</p>"
+  {
+    "slug": "derivatives-market-leverage-warning",
+    "date": "2026-04-09", 
+    "category": "RISK",
+    "languages": {
+      "en": {
+        "title": "Derivatives Alert: High Leverage Warning",
+        "excerpt": "Open interest is at an all-time high. A long squeeze might be imminent.",
+        "content": "<p>The estimated leverage ratio has reached critical levels. When <strong>Open Interest</strong> spikes alongside flat price action, a flush is often the result.</p>"
+      },
+      "pt": {
+        "title": "Alerta de Derivativos: Aviso de Alta Alavancagem",
+        "excerpt": "O Open Interest está em níveis recordes. Um long squeeze pode estar iminente.",
+        "content": "<p>O índice de alavancagem estimada atingiu níveis críticos. Quando o <strong>Open Interest</strong> sobe com preço lateral, uma limpeza costuma ocorrer.</p>"
+      },
+      "fr": {
+        "title": "Alerte Dérivés : Risque d'Effet de Levier Élevé",
+        "excerpt": "L'Open Interest est à un niveau record. Un long squeeze est possible.",
+        "content": "<p>Le ratio de levier a atteint des niveaux critiques. Une purge est souvent la conséquence d'un <strong>Open Interest</strong> trop élevé.</p>"
+      }
     }
-  }
-},
+  },
 
-{
-  "slug": "altcoin-season-reality-check",
-  "date": "2026-04-10", 
-  "category": "MARKET",
-  "languages": {
-    "en": {
-      "title": "Altcoin Season: A Reality Check for Q2",
-      "excerpt": "Bitcoin dominance is testing a key resistance. Is it time for Alts to shine?",
-      "content": "<p>The Bitcoin Dominance (BTC.D) chart is the most important indicator right now. If we break below 52%, the <strong>Altseason</strong> will officially begin.</p>"
-    },
-    "pt": {
-      "title": "Altcoin Season: Uma Dose de Realidade para o Q2",
-      "excerpt": "A dominância do Bitcoin está testando uma resistência chave. É a vez das Alts?",
-      "content": "<p>O gráfico de Dominância do Bitcoin (BTC.D) é o indicador mais importante agora. Se cairmos abaixo de 52%, a <strong>Altseason</strong> começa oficialmente.</p>"
-    },
-    "fr": {
-      "title": "Altcoin Season : Réalité du Deuxième Trimestre",
-      "excerpt": "La dominance du Bitcoin teste une résistance. Est-ce le moment pour les Alts ?",
-      "content": "<p>Le graphique de dominance du Bitcoin (BTC.D) est crucial. Si nous descendons sous 52%, l'<strong>Altseason</strong> commencera officiellement.</p>"
+  {
+    "slug": "altcoin-season-reality-check",
+    "date": "2026-04-10", 
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Altcoin Season: A Reality Check for Q2",
+        "excerpt": "Bitcoin dominance is testing a key resistance. Is it time for Alts to shine?",
+        "content": "<p>The Bitcoin Dominance (BTC.D) chart is the most important indicator right now. If we break below 52%, the <strong>Altseason</strong> will officially begin.</p>"
+      },
+      "pt": {
+        "title": "Altcoin Season: Uma Dose de Realidade para o Q2",
+        "excerpt": "A dominância do Bitcoin está testando uma resistência chave. É a vez das Alts?",
+        "content": "<p>O gráfico de Dominância do Bitcoin (BTC.D) é o indicador mais importante agora. Se cairmos abaixo de 52%, a <strong>Altseason</strong> começa oficialmente.</p>"
+      },
+      "fr": {
+        "title": "Altcoin Season : Réalité du Deuxième Trimestre",
+        "excerpt": "La dominance du Bitcoin teste une résistance. Est-ce le moment pour les Alts ?",
+        "content": "<p>Le graphique de dominance du Bitcoin (BTC.D) est crucial. Si nous descendons sous 52%, l'<strong>Altseason</strong> commencera officiellement.</p>"
+      }
     }
-  }
-},
+  },
 
-[
   {
     "slug": "bitcoin-breakout-72k",
     "date": "2026-04-11",
     "category": "CRYPTO",
     "languages": {
       "en": {
-        "title": "Bitcoin Breaks $72k: Geopolitical Relief",
-        "excerpt": "BTC surges as tensions ease. Is the path to a new All-Time High finally clear?",
-        "content": "<p>Market sentiment shifted rapidly today as geopolitical tensions between the US and Iran showed signs of de-escalation. Bitcoin (BTC) responded with a strong bounce, reclaiming the <strong>$72,000</strong> level.</p><p>On-chain data on the <strong>cmStocks</strong> terminal shows a significant spike in institutional buy orders at the $68k support zone, suggesting that 'smart money' is positioning for a breakout towards $75k.</p>"
+        "title": "Bitcoin Breaks $72k: Geopolitical Relief Drives Market",
+        "excerpt": "BTC surges as US-Iran tensions show signs of de-escalation. Is the path to a new ATH finally clear?",
+        "content": "<p>Market sentiment shifted rapidly this Saturday, April 11, as geopolitical tensions showed signs of easing. Bitcoin (BTC) responded with a strong bounce, reclaiming the <strong>$72,000</strong> level and trading around R$ 367,500.</p><p>On the legacy side, the Ibovespa closed the week at a historic record of <strong>197,323 points</strong>. Data on the <strong>cmStocks</strong> terminal shows a significant spike in institutional buy orders, suggesting that 'smart money' is positioning for a breakout towards the psychological $75k resistance for BTC and 200k for the Brazilian index.</p>"
       },
       "pt": {
-        "title": "Bitcoin Rompe US$ 72k: Alívio Geopolítico",
-        "excerpt": "BTC sobe forte com redução de tensões. O caminho para a nova máxima está livre?",
-        "content": "<p>O sentimento do mercado mudou rapidamente hoje com sinais de desescalada entre EUA e Irã. O Bitcoin (BTC) respondeu com um salto robusto, recuperando o patamar de <strong>US$ 72.000</strong>.</p><p>Dados on-chain no terminal <strong>cmStocks</strong> mostram um pico de ordens de compra institucional no suporte de US$ 68k, sugerindo que o 'smart money' está se posicionando para um rompimento rumo aos US$ 75k.</p>"
+        "title": "Bitcoin Rompe US$ 72k: Alívio Geopolítico Impulsiona o Mercado",
+        "excerpt": "BTC sobe forte com redução de tensões entre EUA e Irã. O caminho para a nova máxima está livre?",
+        "content": "<p>O sentimento do mercado mudou rapidamente neste sábado, 11 de abril, com sinais de desescalada nas tensões geopolíticas. O Bitcoin (BTC) respondeu com um salto robusto, recuperando o patamar de <strong>US$ 72.000</strong> (aprox. R$ 367.500).</p><p>No mercado tradicional, o Ibovespa encerrou a semana em recorde histórico aos <strong>197.323 pontos</strong>. Dados no terminal <strong>cmStocks</strong> mostram um pico de ordens de compra institucional, sugerindo que o 'smart money' está se posicionando para um rompimento rumo aos US$ 75k no BTC e 200k no índice brasileiro.</p>"
       }
     }
   },
@@ -201,5 +200,4 @@
       }
     }
   }
-]
 ]
