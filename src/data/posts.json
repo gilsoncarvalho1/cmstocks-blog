@@ -1,7 +1,7 @@
 [
   {
     "slug": "analise-baleias-eth-2026",
-    "date": "2026-04-06", 
+    "date": "2026-04-06",
     "category": "INSIGHT",
     "languages": {
       "en": {
@@ -21,11 +21,9 @@
       }
     }
   },
-
-
   {
     "slug": "liquidity-gaps-magnet-effect",
-    "date": "2026-04-07", 
+    "date": "2026-04-07",
     "category": "TECHNICAL",
     "languages": {
       "en": {
@@ -45,10 +43,9 @@
       }
     }
   },
-
   {
     "slug": "whale-tracking-institutional-silence",
-    "date": "2026-04-08", 
+    "date": "2026-04-08",
     "category": "ON-CHAIN",
     "languages": {
       "en": {
@@ -68,10 +65,9 @@
       }
     }
   },
-
   {
     "slug": "derivatives-market-leverage-warning",
-    "date": "2026-04-09", 
+    "date": "2026-04-09",
     "category": "RISK",
     "languages": {
       "en": {
@@ -91,10 +87,9 @@
       }
     }
   },
-
   {
     "slug": "altcoin-season-reality-check",
-    "date": "2026-04-10", 
+    "date": "2026-04-10",
     "category": "MARKET",
     "languages": {
       "en": {
@@ -114,7 +109,6 @@
       }
     }
   },
-
   {
     "slug": "bitcoin-breakout-72k",
     "date": "2026-04-11",
@@ -129,6 +123,11 @@
         "title": "Bitcoin Rompe US$ 72k: Alívio Geopolítico Impulsiona o Mercado",
         "excerpt": "BTC sobe forte com redução de tensões entre EUA e Irã. O caminho para a nova máxima está livre?",
         "content": "<p>O sentimento do mercado mudou rapidamente neste sábado, 11 de abril, com sinais de desescalada nas tensões geopolíticas. O Bitcoin (BTC) respondeu com um salto robusto, recuperando o patamar de <strong>US$ 72.000</strong> (aprox. R$ 367.500).</p><p>No mercado tradicional, o Ibovespa encerrou a semana em recorde histórico aos <strong>197.323 pontos</strong>. Dados no terminal <strong>cmStocks</strong> mostram um pico de ordens de compra institucional, sugerindo que o 'smart money' está se posicionando para um rompimento rumo aos US$ 75k no BTC e 200k no índice brasileiro.</p>"
+      },
+      "fr": {
+        "title": "Le Bitcoin franchit les 72 000 $ : Le soulagement géopolitique stimule le marché",
+        "excerpt": "Le BTC bondit alors que les tensions entre les États-Unis et l'Iran s'apaisent. La voie vers un nouveau sommet historique est-elle enfin libre ?",
+        "content": "<p>Le sentiment du marché a rapidement changé ce samedi 11 avril, alors que les tensions géopolitiques montraient des signes d'apaisement. Le Bitcoin (BTC) a réagi par un fort rebond, reprenant le niveau des <strong>72 000 $</strong>.</p><p>Du côté des marchés traditionnels, l'Ibovespa a clôturé la semaine sur un record historique à <strong>197 323 points</strong>. Les données du terminal <strong>cmStocks</strong> montrent un pic d'ordres d'achat institutionnels, suggérant que le 'smart money' se positionne pour une cassure vers la résistance psychologique des 75k $ pour le BTC.</p>"
       }
     }
   },
@@ -146,6 +145,11 @@
         "title": "Selic a 14,75%: Dividendos ainda valem a pena?",
         "excerpt": "Por que ações de utilidade pública continuam atrativas mesmo com juros altos.",
         "content": "<p>Com a Selic em 14,75%, muitos investidores correm para a renda fixa. No entanto, ações de qualidade como <strong>CPFL (CPFE3)</strong> oferecem yields que, somados ao crescimento, ainda superam o CDI no longo prazo.</p><p>O segredo está na estabilidade do payout. Use nosso screener para comparar dívida/patrimônio e encontrar os yields mais seguros para sua carteira.</p>"
+      },
+      "fr": {
+        "title": "Le taux Selic à 14,75% : Les dividendes peuvent-ils encore gagner ?",
+        "excerpt": "Pourquoi les actions de services publics sont toujours attractives malgré les taux d'intérêt élevés au Brésil.",
+        "content": "<p>Avec le taux Selic à 14,75%, de nombreux investisseurs fuient vers le revenu fixe. Cependant, les actions de services publics comme <strong>CPFL (CPFE3)</strong> offrent des rendements qui surpassent encore le CDI sur le long terme.</p><p>Le secret réside dans la stabilité du versement. Utilisez notre screener pour comparer les ratios d'endettement et trouver les rendements les plus sûrs.</p>"
       }
     }
   },
@@ -163,6 +167,11 @@
         "title": "Ibovespa aos 197k: Recorde ou Bolha?",
         "excerpt": "Capital estrangeiro flui para as blue chips brasileiras. Vamos analisar os dados.",
         "content": "<p>O Ibovespa atingiu impressionantes <strong>197.000 pontos</strong> hoje. Com o dólar estável em R$ 5,01, os ativos brasileiros parecem baratos para fundos internacionais.</p><p>Contudo, indicadores técnicos no <strong>cmStocks</strong> mostram o RSI entrando em zona de sobrecompra. Uma correção saudável para testar o suporte de 190k pode ocorrer antes de buscarmos os 200k.</p>"
+      },
+      "fr": {
+        "title": "L'Ibovespa à 197k : Record ou Bulle ?",
+        "excerpt": "Les capitaux étrangers affluent vers les blue chips brésiliennes. Analysons les données.",
+        "content": "<p>L'Ibovespa a atteint un impressionnant <strong>197 000 points</strong> aujourd'hui. Avec le réal brésilien se stabilisant à 5,01 pour 1 USD, les actifs brésiliens semblent bon marché pour les fonds internationaux.</p><p>Cependant, les indicateurs techniques sur <strong>cmStocks</strong> montrent que le RSI entre en territoire de surachat. Une correction saine est possible avant d'atteindre les 200k.</p>"
       }
     }
   },
@@ -180,6 +189,11 @@
         "title": "O Choque de Oferta Silencioso do Ethereum",
         "excerpt": "30% do ETH está travado em staking. O que acontece quando a demanda subir?",
         "content": "<p>Enquanto todos olham para o Bitcoin, o Ethereum enfrenta um choque de oferta massivo. Mais de 30% do suprimento total está em staking, reduzindo a liquidez nas corretoras.</p><p>Combinado com a tokenização de ativos reais (RWA), o ETH está se tornando a espinha dorsal das finanças digitais. Observe a resistência de US$ 2.300 de perto esta semana.</p>"
+      },
+      "fr": {
+        "title": "Le choc d'offre silencieux d'Ethereum",
+        "excerpt": "30% de l'ETH est maintenant verrouillé en staking. Que se passera-t-il quand la demande explosera ?",
+        "content": "<p>Pendant que tout le monde regarde le Bitcoin, l'Ethereum fait face à un choc d'offre massif. Plus de 30% de l'offre totale est désormais stakée, réduisant la liquidité sur les bourses.</p><p>Combiné à la tokenisation des actifs réels (RWA), l'ETH devient l'épine dorsale de la finance numérique. Surveillez la résistance des 2 300 $ de près cette semaine.</p>"
       }
     }
   },
@@ -197,6 +211,11 @@
         "title": "Filtrando o Ruído do Mercado em 2026",
         "excerpt": "O excesso de informação é o maior inimigo do trader. Veja como simplificar.",
         "content": "<p>Operar em 2026 é sobre filtrar, não encontrar mais dados. Com ciclos de notícias movidos por IA, os preços se movem mais rápido do que nunca.</p><p>Sua vantagem é um workspace limpo. Use o terminal <strong>cmStocks</strong> para focar em apenas três pilares: Price Action, Volume e Liquidez. Pare de olhar 20 indicadores e foque no gráfico.</p>"
+      },
+      "fr": {
+        "title": "Filtrer le bruit du marché en 2026",
+        "excerpt": "La surcharge d'informations est le pire ennemi d'un trader. Voici comment simplifier.",
+        "content": "<p>Le trading en 2026 consiste à filtrer, pas à trouver plus de données. Votre avantage est un espace de travail propre. Utilisez le terminal <strong>cmStocks</strong> pour vous concentrer sur trois piliers : l'action des prix, le volume et la liquidité.</p>"
       }
     }
   }
