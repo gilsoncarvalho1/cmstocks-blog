@@ -768,6 +768,182 @@
         "content": "<p>Nous étudions l'intégration de modèles d'IA pour fournir des informations plus approfondies sur le sentiment du marché.</p>"
       }
     }
+  },
+  {
+    "slug": "bitcoin-liquid-supply-crunch",
+    "date": "2026-05-11",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "The Bitcoin Liquid Supply Crunch",
+        "excerpt": "Exchange balances reach all-time lows. What does this mean for price action?",
+        "content": "<p>Data from our <strong>cmStocks</strong> monitors show that Bitcoin supply on exchanges has hit a record low. As institutions continue to stack via ETFs, the available 'sell-side' liquidity is vanishing, setting the stage for potential volatility.</p>"
+      },
+      "pt": {
+        "title": "O Choque de Oferta Líquida do Bitcoin",
+        "excerpt": "Saldos em exchanges atingem mínimas históricas. O que isso significa para o preço?",
+        "content": "<p>Dados dos monitores <strong>cmStocks</strong> mostram que a oferta de Bitcoin nas corretoras atingiu um recorde de baixa. Com instituições acumulando via ETFs, a liquidez de venda está desaparecendo.</p>"
+      },
+      "fr": {
+        "title": "La pénurie d'offre liquide de Bitcoin",
+        "excerpt": "Les soldes sur les bourses atteignent des niveaux historiquement bas.",
+        "content": "<p>La liquidité disponible à la vente disparaît, créant un environnement propice à une forte volatilité alors que les institutions continuent d'accumuler.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-pips-and-upgrades",
+    "date": "2026-05-12",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Ethereum Roadmap: Understanding the Next Upgrade",
+        "excerpt": "How the latest improvement proposals aim to reduce node storage requirements.",
+        "content": "<p>The next Ethereum upgrade focuses on 'Purge' and 'Splurge' phases. For developers, this means a more streamlined network and lower costs for operating full nodes.</p>"
+      },
+      "pt": {
+        "title": "Roadmap Ethereum: Entendendo o Próximo Upgrade",
+        "excerpt": "Como as novas propostas visam reduzir os requisitos de armazenamento dos nós.",
+        "content": "<p>O próximo upgrade do Ethereum foca nas fases 'Purge' e 'Splurge'. Para desenvolvedores, isso significa uma rede mais eficiente e menores custos para operar nós completos.</p>"
+      },
+      "fr": {
+        "title": "Roadmap Ethereum : Comprendre la prochaine mise à jour",
+        "excerpt": "Comment les nouvelles propositions visent à réduire les besoins de stockage.",
+        "content": "<p>La prochaine mise à jour se concentre sur l'efficacité du réseau et la réduction des coûts d'exploitation des nœuds pour les développeurs.</p>"
+      }
+    }
+  },
+  {
+    "slug": "top-rwa-projects-2026",
+    "date": "2026-05-13",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "RWA Sector: Tokenizing the Real World",
+        "excerpt": "Why Real World Assets are the fastest-growing sector in crypto this quarter.",
+        "content": "<p>From real estate to government bonds, everything is being tokenized. We analyze the top 3 projects leading the RWA narrative in 2026 and their impact on DeFi liquidity.</p>"
+      },
+      "pt": {
+        "title": "Setor RWA: Tokenizando o Mundo Real",
+        "excerpt": "Por que os Real World Assets são o setor que mais cresce nas criptos este trimestre.",
+        "content": "<p>De imóveis a títulos governamentais, tudo está sendo tokenizado. Analisamos os 3 principais projetos liderando a narrativa de RWA em 2026.</p>"
+      },
+      "fr": {
+        "title": "Secteur RWA : Tokeniser le monde réel",
+        "excerpt": "Pourquoi les Real World Assets sont le secteur à la croissance la plus rapide.",
+        "content": "<p>De l'immobilier aux obligations d'État, tout se tokenise. Nous analysons les leaders de cette narration en 2026.</p>"
+      }
+    }
+  },
+  {
+    "slug": "crypto-taxation-global-trends",
+    "date": "2026-05-14",
+    "category": "EDUCATIONAL",
+    "languages": {
+      "en": {
+        "title": "Global Crypto Tax Trends for 2026",
+        "excerpt": "Navigating the changing regulatory landscape for digital asset holders.",
+        "content": "<p>Regulation is maturing. We look at how different jurisdictions are treating staking rewards and capital gains in this new fiscal year.</p>"
+      },
+      "pt": {
+        "title": "Tendências Globais de Tributação Cripto 2026",
+        "excerpt": "Navegando no cenário regulatório em constante mudança para ativos digitais.",
+        "content": "<p>A regulação está amadurecendo. Analisamos como diferentes jurisdições estão tratando recompensas de staking e ganhos de capital neste ano fiscal.</p>"
+      },
+      "fr": {
+        "title": "Tendances fiscales crypto mondiales 2026",
+        "excerpt": "Naviguer dans le paysage réglementaire en évolution pour les actifs numériques.",
+        "content": "<p>La réglementation mûrit. Nous examinons comment les différentes juridictions traitent les gains en crypto cette année.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ai-tokens-utility-analysis",
+    "date": "2026-05-15",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "AI Tokens: Hype vs. Real Utility",
+        "excerpt": "Filtering the noise in the Artificial Intelligence crypto sub-sector.",
+        "content": "<p>Not every AI token is built equal. Our terminal helps you distinguish between projects with working decentralized compute models and those just riding the trend.</p>"
+      },
+      "pt": {
+        "title": "Tokens de IA: Hype vs. Utilidade Real",
+        "excerpt": "Filtrando o ruído no sub-setor de Inteligência Artificial nas criptos.",
+        "content": "<p>Nem todo token de IA é igual. Nosso terminal ajuda você a distinguir entre projetos com modelos reais de computação descentralizada e aqueles apenas surfando na moda.</p>"
+      },
+      "fr": {
+        "title": "Tokens IA : Hype vs Utilité réelle",
+        "excerpt": "Filtrer le bruit dans le sous-secteur de l'intelligence artificielle crypto.",
+        "content": "<p>Notre terminal vous aide à distinguer les projets de calcul décentralisé réels de ceux qui profitent simplement de la tendance.</p>"
+      }
+    }
+  },
+  {
+    "slug": "stablecoin-yield-strategies",
+    "date": "2026-05-16",
+    "category": "STRATEGY",
+    "languages": {
+      "en": {
+        "title": "Safely Farming Stablecoin Yields",
+        "excerpt": "How to earn 10%+ APY on your USD-pegged assets without extreme risk.",
+        "content": "<p>Stability doesn't have to be boring. We explore the safest liquidity pools for USDT, USDC, and PYUSD to keep your capital working during market lulls.</p>"
+      },
+      "pt": {
+        "title": "Farmando Rendimentos em Stablecoins com Segurança",
+        "excerpt": "Como ganhar mais de 10% de APY em seus ativos pareados ao dólar sem risco extremo.",
+        "content": "<p>Estabilidade não precisa ser entediante. Exploramos as pools de liquidez mais seguras para USDT, USDC e PYUSD para manter seu capital rendendo.</p>"
+      },
+      "fr": {
+        "title": "Rendements stables : Stratégies de farming",
+        "excerpt": "Comment gagner plus de 10% d'APY sur vos actifs indexés sur le dollar.",
+        "content": "<p>Nous explorons les pools de liquidités les plus sûrs pour faire fructifier votre capital pendant les périodes calmes du marché.</p>"
+      }
+    }
+  },
+  {
+    "slug": "on-chain-forensics-security",
+    "date": "2026-05-17",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "On-Chain Forensics: Tracking Stolen Funds",
+        "excerpt": "The tools and techniques used to monitor exploiters and recover assets.",
+        "content": "<p>Transparency is blockchain's greatest feature. We dive into how analysts use block explorers and social signals to track and freeze malicious transactions.</p>"
+      },
+      "pt": {
+        "title": "On-Chain Forensics: Rastreando Fundos Roubados",
+        "excerpt": "As ferramentas e técnicas usadas para monitorar exploradores e recuperar ativos.",
+        "content": "<p>A transparência é a maior virtude da blockchain. Mergulhamos em como analistas usam exploradores de blocos para rastrear e congelar transações maliciosas.</p>"
+      },
+      "fr": {
+        "title": "Forensique On-Chain : Tracer les fonds volés",
+        "excerpt": "Les outils et techniques utilisés pour surveiller les hackers.",
+        "content": "<p>La transparence est la plus grande force de la blockchain. Découvrez comment les analystes tracent les transactions malveillantes.</p>"
+      }
+    }
+  },
+  {
+    "slug": "crypto-market-maturity-2026",
+    "date": "2026-05-18",
+    "category": "INSIGHT",
+    "languages": {
+      "en": {
+        "title": "The Road to a $5 Trillion Market Cap",
+        "excerpt": "Why the current consolidation is different from previous cycles.",
+        "content": "<p>As the total crypto market cap nears $5T, the volatility profile is changing. This is the birth of a new asset class, driven by institutional custody and clear legal frameworks.</p>"
+      },
+      "pt": {
+        "title": "O Caminho para um Market Cap de US$ 5 Trilhões",
+        "excerpt": "Por que a consolidação atual é diferente dos ciclos anteriores.",
+        "content": "<p>À medida que o valor total de mercado cripto se aproxima de US$ 5T, o perfil de volatilidade muda. É o nascimento de uma nova classe de ativos, movida por custódia institucional.</p>"
+      },
+      "fr": {
+        "title": "Vers une capitalisation boursière de 5 000 milliards",
+        "excerpt": "Pourquoi la consolidation actuelle diffère des cycles précédents.",
+        "content": "<p>Avec une capitalisation approchant les 5 billions, nous assistons à la naissance d'une nouvelle classe d'actifs mature.</p>"
+      }
+    }
   }
 ]
 
