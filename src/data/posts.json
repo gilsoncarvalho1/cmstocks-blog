@@ -944,6 +944,248 @@
         "content": "<p>Avec une capitalisation approchant les 5 billions, nous assistons à la naissance d'une nouvelle classe d'actifs mature.</p>"
       }
     }
+  },
+  {
+    "slug": "liquidity-cycles-and-crypto-bonds",
+    "date": "2026-05-19",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "Global Liquidity Cycles and the Shift to Digital Bonds",
+        "excerpt": "How sovereign debt tensions are driving capital into Ethereum staking layers.",
+        "content": "<p>As global markets face pressure from sovereign debt yields, institutional investors are looking for alternatives. Ethereum's staking layer is increasingly viewed as the internet's native bond market, offering predictable yields backed by decentralized consensus rather than central bank policy.</p>"
+      },
+      "pt": {
+        "title": "Ciclos de Liquidez Global e a Mudança para Títulos Digitais",
+        "excerpt": "Como as tensões na dívida soberana estão a canalizar capital para as camadas de staking do Ethereum.",
+        "content": "<p>À medida que os mercados globais enfrentam pressão nos rendimentos da dívida soberana, os investidores institucionais procuram alternativas. A camada de staking do Ethereum é cada vez mais vista como o mercado de títulos nativo da internet, oferecendo yields previsíveis.</p>"
+      },
+      "fr": {
+        "title": "Cycles de liquidité et transition vers les obligations numériques",
+        "excerpt": "Comment les tensions sur la dette poussent le capital vers le staking d'Ethereum.",
+        "content": "<p>Le staking d'Ethereum est de plus en plus perçu comme le marché obligataire natif d'Internet, offrant des rendements prévisibles basés sur le consensus décentralisé.</p>"
+      }
+    }
+  },
+  {
+    "slug": "zero-knowledge-rollups-benchmarks",
+    "date": "2026-05-20",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Zk-Rollups: Benchmarking Prover Costs in 2026",
+        "excerpt": "Why proving hardware optimization is the next big bottleneck for L2 scalability.",
+        "content": "<p>Zero-Knowledge technology is the end-game for blockchain scaling, but it comes with a catch: prover computation costs. We analyze recent hardware breakthroughs that are reducing proof generation times by over 40%, making private, instant transactions commercially viable.</p>"
+      },
+      "pt": {
+        "title": "Zk-Rollups: Benchmarking de Custos de Prover em 2026",
+        "excerpt": "Por que a otimização de hardware de prova é o próximo grande gargalo para a escalabilidade L2.",
+        "content": "<p>A tecnologia Zero-Knowledge é o estágio final da escalabilidade em blockchain, mas traz um desafio: os custos computacionais do prover. Analisamos os avanços de hardware que estão a reduzir o tempo de geração de provas em 40%.</p>"
+      },
+      "fr": {
+        "title": "Zk-Rollups : Analyse comparative des coûts des Provers",
+        "excerpt": "Pourquoi l'optimisation du matériel de preuve est le prochain grand défi des L2.",
+        "content": "<p>La technologie Zero-Knowledge représente l'avenir de la mise à l'échelle. Nous analysons les percées matérielles qui réduisent le temps de génération des preuves de 40%.</p>"
+      }
+    }
+  },
+  {
+    "slug": "bitcoin-mvrv-ratio-overbought",
+    "date": "2026-05-21",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Bitcoin MVRV Z-Score: Are We Approaching Overbought Territory?",
+        "excerpt": "An on-chain deep dive into investor profitability and psychological resistance levels.",
+        "content": "<p>The MVRV Z-Score is one of the most reliable indicators for market tops and bottoms. Currently, the metric is climbing towards the historical caution zone, suggesting that while the macro trend remains bullish, short-term profit-taking risk is elevated.</p>"
+      },
+      "pt": {
+        "title": "Bitcoin MVRV Z-Score: Estamos a Aproximar-nos de Zona de Sobrecompra?",
+        "excerpt": "Uma análise on-chain aprofundada sobre a rentabilidade dos investidores e níveis de resistência.",
+        "content": "<p>O MVRV Z-Score é um dos indicadores mais confiáveis para identificar topos e fundos de mercado. Atualmente, a métrica está a subir em direção à zona histórica de cautela, sugerindo risco de realização de lucros a curto prazo.</p>"
+      },
+      "fr": {
+        "title": "Bitcoin MVRV Z-Score : Approchons-nous d'une zone de surachat ?",
+        "excerpt": "Une analyse on-chain de la rentabilité des investisseurs et des niveaux de résistance.",
+        "content": "<p>Le MVRV Z-Score grimpe vers la zone de prudence historique, ce qui suggère que le risque de prise de bénéfices à court terme est élevé malgré une tendance macro haussière.</p>"
+      }
+    }
+  },
+  {
+    "slug": "cross-chain-interoperability-security",
+    "date": "2026-05-22",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "The Evolution of Cross-Chain Bridges: Security Paradigms",
+        "excerpt": "How native intent-based bridges are replacing vulnerable lock-and-mint architectures.",
+        "content": "<p>Bridges have historically been the weakest link in crypto security. In 2026, the industry is abandoning legacy lock-and-mint bridges in favor of intent-based architectures and cross-chain message passing, reducing systemic smart contract risk.</p>"
+      },
+      "pt": {
+        "title": "A Evolução das Pontes Cross-Chain: Paradigmas de Segurança",
+        "excerpt": "Como as pontes baseadas em intenções nativas estão a substituir arquiteturas vulneráveis.",
+        "content": "<p>As pontes têm sido historicamente o elo mais fraco da segurança cripto. Em 2026, a indústria está a abandonar os modelos antigos de lock-and-mint em favor de arquiteturas baseadas em intenções (intent-based), reduzindo o risco sistémico.</p>"
+      },
+      "fr": {
+        "title": "L'évolution des ponts Cross-Chain : Nouveaux paradigmes",
+        "excerpt": "Comment les architectures basées sur les intentions remplacent les modèles vulnérables.",
+        "content": "<p>En 2026, l'industrie abandonne les anciens modèles de 'lock-and-mint' au profit d'architectures basées sur les intentions, réduisant ainsi les risques de sécurité.</p>"
+      }
+    }
+  },
+  {
+    "slug": "depin-networks-real-revenue",
+    "date": "2026-05-23",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "DePIN Sector Check: Speculation vs. Real On-Chain Revenue",
+        "excerpt": "Auditing decentralized storage and compute networks based on utilization metrics.",
+        "content": "<p>Decentralized Physical Infrastructure Networks (DePIN) are generating real-world utility bills. By extracting data from decentralized storage and compute protocols, our terminal isolates platforms with true organic demand from those driven solely by emission hype.</p>"
+      },
+      "pt": {
+        "title": "Check do Setor DePIN: Especulação vs. Receita On-Chain Real",
+        "excerpt": "Auditando redes de armazenamento e computação descentralizadas com base em métricas de utilização.",
+        "content": "<p>As redes DePIN estão a gerar utilidade no mundo real. Extraindo dados de protocolos de armazenamento e computação descentralizados, o nosso terminal isola as plataformas com procura orgânica real daquelas movidas apenas por hype.</p>"
+      },
+      "fr": {
+        "title": "Secteur DePIN : Spéculation vs Revenus On-Chain réels",
+        "excerpt": "Audit des réseaux de stockage et de calcul décentralisés selon leur utilisation.",
+        "content": "<p>Notre terminal isole les plateformes ayant une demande organique réelle de celles qui sont uniquement portées par la spéculation sur les émissions de jetons.</p>"
+      }
+    }
+  },
+  {
+    "slug": "crypto-portfolio-rebalancing-math",
+    "date": "2026-05-24",
+    "category": "STRATEGY",
+    "languages": {
+      "en": {
+        "title": "The Mathematics of Portfolio Rebalancing in Crypto",
+        "excerpt": "Why programmatic allocation adjustments outperform buy-and-hold during extended ranges.",
+        "content": "<p>Volatile, range-bound markets are perfect for systematic rebalancing. Using simple geometric mean algorithms, active capital managers can capture premium volatility without adding net directional exposure to altcoin bags.</p>"
+      },
+      "pt": {
+        "title": "A Matemática do Rebalanceamento de Portfólio em Cripto",
+        "excerpt": "Por que ajustes programáticos de alocação superam o buy-and-hold durante mercados laterais.",
+        "content": "<p>Mercados voláteis e laterais são perfeis para o rebalanceamento sistemático. Usando algoritmos simples de média geométrica, gestores de capital podem capturar prémios de volatilidade sem aumentar a exposição direcional.</p>"
+      },
+      "fr": {
+        "title": "La mathématique du rééquilibrage de portefeuille Crypto",
+        "excerpt": "Pourquoi les ajustements programmatiques surpassent le buy-and-hold en marché latéral.",
+        "content": "<p>Les marchés volatils et latéraux sont parfaits pour le rééquilibrage systématique. Utilisez des algorithmes simples pour capturer les primes de volatilité.</p>"
+      }
+    }
+  },
+  {
+    "slug": "institutional-order-flow-otc",
+    "date": "2026-05-25",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Decoding OTC Desk Activity: Tracking Hidden Liquidity",
+        "excerpt": "How large-scale spot block trades impact order books without instant price reaction.",
+        "content": "<p>Not all institutional volume happens on public order books. Over-the-Counter (OTC) desks are processing massive block trades. Monitoring wallet address clusters associated with these entities provides crucial leading indicators for mid-term shifts.</p>"
+      },
+      "pt": {
+        "title": "Decodificando a Atividade de Mesas OTC: Rastreando Liquidez Oculta",
+        "excerpt": "Como grandes negociações em bloco impactam os livros de ordens sem reação imediata no preço.",
+        "content": "<p>Nem todo volume institucional ocorre nos livros de ordens públicos. As mesas Over-the-Counter (OTC) processam transações massivas em bloco. Monitorizar os clusters de carteiras associados a estas entidades revela indicadores valiosos.</p>"
+      },
+      "fr": {
+        "title": "Décoder l'activité des bureaux OTC : Tracer la liquidité cachée",
+        "excerpt": "Comment les transactions de bloc à grande échelle influencent les marchés à moyen terme.",
+        "content": "<p>Le suivi des clusters d'adresses de portefeuilles associés aux entités OTC fournit des indicateurs avancés cruciaux pour les tendances à moyen terme.</p>"
+      }
+    }
+  },
+  {
+    "slug": "liquid-staking-derivatives-governance",
+    "date": "2026-05-26",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "LSD Governance Risks: The Centralization Debate",
+        "excerpt": "Evaluating the voting power concentration in decentralized protocols and its implications.",
+        "content": "<p>Liquid Staking Derivatives (LSDs) have unlocked massive capital efficiency, but they present structural governance risks. As single protocols control substantial fractions of the validator set, decentralized networks face governance capture discussions.</p>"
+      },
+      "pt": {
+        "title": "Riscos de Governação em LSDs: O Debate da Centralização",
+        "excerpt": "Avaliando a concentração do poder de voto em protocolos descentralizados e as suas implicações.",
+        "content": "<p>Os Liquid Staking Derivatives (LSDs) trouxeram uma enorme eficiência de capital, mas apresentam riscos estruturais de governação. Quando protocolos únicos controlam frações massivas de validadores, discute-se o risco de captura da rede.</p>"
+      },
+      "fr": {
+        "title": "Risques de gouvernance des LSD : Le débat sur la centralisation",
+        "excerpt": "Évaluation de la concentration du pouvoir de vote dans les protocoles de staking liquide.",
+        "content": "<p>Lorsque des protocoles uniques contrôlent des fractions importantes de validateurs, les réseaux décentralisés font face à des risques de capture de gouvernance.</p>"
+      }
+    }
+  },
+  {
+    "slug": "mev-boost-and-validator-payment-dynamics",
+    "date": "2026-05-27",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "MEV-Boost Architecture: How Searchers Shape Block Space",
+        "excerpt": "A deep dive into Maximal Extractable Value and its role in transaction ordering fees.",
+        "content": "<p>Maximal Extractable Value (MEV) fundamentally changes network economics. Through MEV-Boost relayers, block searchers bid for specific transaction alignments, directly dictating validator profitability and transaction priorities during high-congestion events.</p>"
+      },
+      "pt": {
+        "title": "Arquitetura MEV-Boost: Como os Searchers Moldam o Espaço de Bloco",
+        "excerpt": "Um mergulho profundo no Maximal Extractable Value e o seu papel nas taxas de ordenação.",
+        "content": "<p>O Maximal Extractable Value (MEV) altera fundamentalmente a economia da rede. Através de relayers MEV-Boost, os searchers licitam alinhamentos específicos de transações, ditando a rentabilidade dos validadores.</p>"
+      },
+      "fr": {
+        "title": "Architecture MEV-Boost : Comment les Searchers façonnent les blocs",
+        "excerpt": "Plongée au cœur de la Maximal Extractable Value et de son rôle économique.",
+        "content": "<p>À travers les relais MEV-Boost, les concepteurs de blocs enchérissent pour des alignements de transactions spécifiques, dictant la rentabilité des validateurs.</p>"
+      }
+    }
+  },
+  {
+    "slug": "stablecoin-yield-vs-tradfi",
+    "date": "2026-05-28",
+    "category": "STRATEGY",
+    "languages": {
+      "en": {
+        "title": "Arbitraging Yields: DeFi Stablecoins vs. Traditional Money Markets",
+        "excerpt": "Where should smart money park dry powder when macro rates compress?",
+        "content": "<p>When macroeconomic rates begin to stabilize or decline, corporate treasuries look for alternative yield venues. High-grade decentralized money markets are offering institutional-grade compliance with spreads that compete directly with traditional T-bills.</p>"
+      },
+      "pt": {
+        "title": "Arbitragem de Yields: Stablecoins DeFi vs. Mercados Monetários Tradicionais",
+        "excerpt": "Onde deve o 'smart money' manter a liquidez quando as taxas macro comprimem?",
+        "content": "<p>Quando as taxas macroeconómicas começam a estabilizar ou a cair, as tesourarias corporativas procuram fontes alternativas de rendimento. Mercados monetários descentralizados de alta qualidade oferecem spreads muito competitivos com os T-bills tradicionais.</p>"
+      },
+      "fr": {
+        "title": "Arbitrage de rendements : Stablecoins DeFi vs Marchés Monétaires Traditionnels",
+        "excerpt": "Où placer ses liquidités lorsque les taux macroéconomiques se compriment ?",
+        "content": "<p>Les marchés monétaires décentralisés de haute qualité offrent des spreads qui rivalisent directement avec les bons du Trésor traditionnels.</p>"
+      }
+    }
+  },
+  {
+    "slug": "crypto-market-options-expiry-may",
+    "date": "2026-05-29",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "May Derivatives Expiry: Pinning the Max Pain Price",
+        "excerpt": "Analyzing the open interest data across Deribit options to predict weekend price floors.",
+        "content": "<p>The final Friday of May brings the monthly options expiry. Large clusters of open interest around specific strike prices suggest market makers will attempt to pin the spot price close to 'Max Pain', reducing extreme breakout probability until the new options cycle opens.</p>"
+      },
+      "pt": {
+        "title": "Vencimento de Derivados de Maio: Fixando o Preço de 'Max Pain'",
+        "excerpt": "Analisando os dados de open interest nas opções da Deribit para prever suportes de fim de semana.",
+        "content": "<p>A última sexta-feira de maio traz o vencimento mensal de opções. Grandes clusters de posições abertas em strikes específicos sugerem que os market makers tentarão aproximar o preço spot do 'Max Pain', reduzindo volatilidades extremas temporariamente.</p>"
+      },
+      "fr": {
+        "title": "Expiration des dérivés de Mai : Analyse du prix 'Max Pain'",
+        "excerpt": "Analyse de l'open interest sur Deribit pour anticiper les niveaux clés du week-end.",
+        "content": "<p>Le dernier vendredi de mai marque l'expiration mensuelle des options, stabilisant souvent le prix spot autour du niveau de 'Max Pain'.</p>"
+      }
+    }
   }
 ]
 
