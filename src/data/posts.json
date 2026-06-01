@@ -1186,6 +1186,161 @@
         "content": "<p>Le dernier vendredi de mai marque l'expiration mensuelle des options, stabilisant souvent le prix spot autour du niveau de 'Max Pain'.</p>"
       }
     }
+  },
+  {
+    "slug": "bitcoin-monthly-close-may-2026",
+    "date": "2026-05-30",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Prepares for the Monthly Close: Key Levels to Watch",
+        "excerpt": "Analyzing the order books and liquidity pools as May comes to an end.",
+        "content": "<p>As May draws to a close, Bitcoin is consolidating near crucial resistance lines. Our <strong>cmStocks</strong> terminal highlights a massive liquidity cluster just above $74,500. A monthly close above the 20-day EMA could spark a strong continuation into June.</p>"
+      },
+      "pt": {
+        "title": "Bitcoin Prepara-se para o Fechamento Mensal: Níveis Chave",
+        "excerpt": "Analisando os livros de ordens e pools de liquidez no fim de maio.",
+        "content": "<p>Com o fim de maio, o Bitcoin consolida-se perto de resistências cruciais. O terminal <strong>cmStocks</strong> destaca um cluster de liquidez acima de US$ 74.500. Um fechamento mensal acima da EMA de 20 dias pode abrir caminho para um junho forte.</p>"
+      },
+      "fr": {
+        "title": "Bitcoin se prépare pour la clôture mensuelle : Niveaux clés",
+        "excerpt": "Analyse des carnets d'ordres et des pools de liquidité alors que mai se termine.",
+        "content": "<p>Le Bitcoin se consolide près de résistances cruciales. Notre terminal indique un cluster de liquidité au-dessus de 74 500 $, ouvrant la voie à un mois de juin prometteur.</p>"
+      }
+    }
+  },
+  {
+    "slug": "render-network-gpu-demand-2026",
+    "date": "2026-05-31",
+    "category": "ON-CHAIN",
+    "languages": {
+      "en": {
+        "title": "Render Network: Tracking Decoupling and GPU Utilization",
+        "excerpt": "How the surge in AI training models is impacting the RENDER token economics.",
+        "content": "<p>Render Network continues to establish itself as the leading decentralized GPU marketplace. On-chain data shows a 35% increase in rendering jobs from AI startups this month, driving organic demand for RENDER independently of broader market movements.</p>"
+      },
+      "pt": {
+        "title": "Render Network: Rastreando o Descolamento e Utilização de GPUs",
+        "excerpt": "Como o aumento nos modelos de treinamento de IA impacta a economia do token RENDER.",
+        "content": "<p>A Render Network consolida-se como o principal marketplace descentralizado de GPUs. Dados on-chain revelam um aumento de 35% nos trabalhos de renderização vindos de startups de IA este mês, gerando demanda orgânica para o token RENDER.</p>"
+      },
+      "fr": {
+        "title": "Render Network : Suivi du découplage et de l'utilisation des GPU",
+        "excerpt": "Comment l'essor des modèles d'IA influence l'économie du jeton RENDER.",
+        "content": "<p>Render Network s'impose comme le leader du calcul GPU décentralisé. Les données indiquent une hausse de 35% des tâches d'IA, stimulant une demande organique pour le RENDER.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ionet-decentralized-clustering-tech",
+    "date": "2026-06-01",
+    "date_comment": "June Opening",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "io.net Infrastructure: Scaling Machine Learning Clusters",
+        "excerpt": "A technical look into how IO coordinates thousands of independent GPUs globally.",
+        "content": "<p>The biggest challenge for decentralized physical infrastructure (DePIN) is latency between nodes. io.net solves this by creating instant, decentralized clusters. We analyze the architectural performance of IO networks as they compete with centralized cloud providers this June.</p>"
+      },
+      "pt": {
+        "title": "Infraestrutura io.net: Escalando Clusters de Machine Learning",
+        "excerpt": "Uma visão técnica de como a rede IO coordena milhares de GPUs independentes globalmente.",
+        "content": "<p>O maior desafio para redes DePIN é a latência entre os nós. A io.net resolve isso criando clusters descentralizados instantâneos. Analisamos a arquitetura da rede IO enquanto ela compete diretamente com provedores de nuvem centralizados.</p>"
+      },
+      "fr": {
+        "title": "Infrastructure io.net : Mettre à l'échelle les clusters de ML",
+        "excerpt": "Aperçu technique de la manière dont IO coordonne des milliers de GPU indépendants.",
+        "content": "<p>Le défi des réseaux DePIN reste la latence. io.net surmonte cela en créant des clusters décentralisés instantanés, rivalisant directement avec les géants du cloud centralisé.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-gas-mechanics-l2-impact",
+    "date": "2026-06-02",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Ethereum Blob Space and Mainnet Gas Dynamics",
+        "excerpt": "Evaluating ETH burn rates as Layer 2 solutions fully transition to blob architecture.",
+        "content": "<p>With blob transactions settling effectively on Ethereum, L2 execution costs have plummeted. However, this impacts the mainnet gas burn rate. We explore the balance between ETH's deflationary mechanisms and its expansion as a foundational settlement layer.</p>"
+      },
+      "pt": {
+        "title": "Ethereum Blob Space e a Dinâmica de Gas na Mainnet",
+        "excerpt": "Avaliando as taxas de queima de ETH com a transição completa das L2s para a arquitetura de blobs.",
+        "content": "<p>Com as transações de blobs liquidadas de forma eficiente no Ethereum, os custos de execução nas L2s despencaram. Analisamos o equilíbrio entre os mecanismos deflacionários do ETH e sua expansão como camada de liquidação.</p>"
+      },
+      "fr": {
+        "title": "Ethereum Blob Space et dynamique du Gas sur le Mainnet",
+        "excerpt": "Évaluation des taux de combustion d'ETH avec la transition des L2 vers l'architecture blob.",
+        "content": "<p>L'efficacité des blobs a fait chuter les coûts des L2, ce qui influence la combustion de l'ETH. Nous analysons cet équilibre entre mécanisme déflationniste et couche de règlement de base.</p>"
+      }
+    }
+  },
+  {
+    "slug": "depin-synergy-render-ionet",
+    "date": "2026-06-03",
+    "category": "STRATEGY",
+    "languages": {
+      "en": {
+        "title": "The DePIN Powerhouse: Render and io.net Synergies",
+        "excerpt": "Why the collaboration between compute layers is redefining decentralized AI.",
+        "content": "<p>Render and io.net are not just competing; they are building a combined ecosystem. While Render focuses on the massive rendering pipelines, io.net provides the raw clustering power for LLMs. Holding both assets represents a diversified bet on the future of AI hardware infrastructure.</p>"
+      },
+      "pt": {
+        "title": "A Força do DePIN: Sinergias entre Render e io.net",
+        "excerpt": "Por que a colaboração entre camadas de computação está redefinindo a IA descentralizada.",
+        "content": "<p>Render e io.net não estão apenas competindo; estão construindo um ecossistema complementar. Enquanto a Render foca em pipelines de renderização massivos, a io.net entrega poder de agrupamento bruto para LLMs. Uma aposta diversificada na infraestrutura de IA.</p>"
+      },
+      "fr": {
+        "title": "La puissance du DePIN : Synergies entre Render et io.net",
+        "excerpt": "Pourquoi la collaboration entre les couches de calcul redéfinit l'IA décentralisée.",
+        "content": "<p>Render se concentre sur les pipelines de rendu massifs tandis qu'io.net fournit la puissance de clustering brute pour les LLM. Une combinaison gagnante pour l'infrastructure matérielle de l'IA.</p>"
+      }
+    }
+  },
+  {
+    "slug": "bitcoin-whales-accumulation-june",
+    "date": "2026-06-04",
+    "category": "CRYPTO",
+    "languages": {
+      "en": {
+        "title": "June Inflows: Bitcoin Whale Wallets Hit New Milestones",
+        "excerpt": "Tracking mega-whale addresses as institutional buyers set a June price floor.",
+        "content": "<p>Our on-chain wallet clustering tools have detected significant inflows into entities holding between 1,000 and 10,000 BTC. This early June accumulation phase signals that institutional buyers are aggressively protecting the mid-term support levels.</p>"
+      },
+      "pt": {
+        "title": "Fluxos de Junho: Carteiras de Baleias de Bitcoin Atingem Marcos",
+        "excerpt": "Rastreando endereços de mega-baleias enquanto compradores institucionais definem suporte para junho.",
+        "content": "<p>Nossas ferramentas de clustering on-chain detectaram fluxos significativos para entidades que possuem entre 1.000 e 10.000 BTC. Essa fase de acumulação no início de junho sinaliza que compradores institucionais estão protegendo os suportes.</p>"
+      },
+      "fr": {
+        "title": "Flux de juin : Les portefeuilles de baleines Bitcoin franchissent des caps",
+        "excerpt": "Suivi des adresses de méga-baleines alors que les acheteurs fixent un plancher.",
+        "content": "<p>Nos outils on-chain ont détecté des flux importants vers les entités détenant entre 1 000 et 10 000 BTC, signalant une protection agressive des supports en ce début juin.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-staking-derivatives-trends",
+    "date": "2026-06-05",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Ethereum Staking Yields Outpace Macro Expectations",
+        "excerpt": "Why decentralized staking yields remain a highly attractive destination for digital assets.",
+        "content": "<p>As June begins, Ethereum network metrics show staking participation reaching an all-time high of 29%. This locking of supply creates structural upward pressure on ETH price, turning staking derivatives into a prime venue for long-term investors.</p>"
+      },
+      "pt": {
+        "title": "Rendimentos de Staking de Ethereum Superam Expectativas Macro",
+        "excerpt": "Por que as yields de staking descentralizado continuam atraindo ativos digitais.",
+        "content": "<p>Com o início de junho, as métricas do Ethereum revelam que a participação em staking atingiu a máxima histórica de 29%. Esse travamento de oferta gera uma pressão ascendente estrutural no preço do ETH.</p>"
+      },
+      "fr": {
+        "title": "Les rendements du Staking Ethereum dépassent les attentes macro",
+        "excerpt": "Pourquoi les rendements décentralisés continuent d'attirer massivement les capitaux.",
+        "content": "<p>En ce début juin, la participation au staking atteint un niveau record de 29%. Ce verrouillage de l'offre crée une pression structurelle à la hausse sur le prix de l'ETH.</p>"
+      }
+    }
   }
 ]
 
