@@ -1341,6 +1341,160 @@
         "content": "<p>En ce début juin, la participation au staking atteint un niveau record de 29%. Ce verrouillage de l'offre crée une pression structurelle à la hausse sur le prix de l'ETH.</p>"
       }
     }
+  },
+  {
+    "slug": "bitcoin-price-analysis-june-2026",
+    "date": "2026-06-06",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Price Eyeing Breakout: Key Resistance Levels",
+        "excerpt": "Technical analysis of BTC spot price as short-term holder realized price tightens.",
+        "content": "<p>Bitcoin's price action is squeezing into a classic bullish pennant. Our order book heatmaps reveal massive ask walls layered between $75,200 and $76,000. A clean daily close above this zone could trigger a short squeeze, liquidating over $400M in leveraged short positions.</p>"
+      },
+      "pt": {
+        "title": "Preço do Bitcoin Mira Rompimento: Níveis de Resistência Chave",
+        "excerpt": "Análise técnica do preço spot do BTC à medida que o preço realizado do detentor de curto prazo afunila.",
+        "content": "<p>A ação de preço do Bitcoin está se estreitando em uma flâmula de alta clássica. Nossos mapas de calor do livro de ordens revelam grandes paredes de venda entre US$ 75.200 e US$ 76.000. Um fechamento diário limpo acima desta zona pode desencadear um short squeeze.</p>"
+      },
+      "fr": {
+        "title": "Le prix du Bitcoin vise uma cassure : Niveaux de résistance clés",
+        "excerpt": "Analyse technique du prix spot du BTC alors que le prix réalisé des détenteurs à court terme se resserre.",
+        "content": "<p>Le prix du Bitcoin se resserre dans un fanion haussier classique. Nos cartes de chaleur du carnet d'ordres révèlent des murs de vente massifs entre 75 200 $ et 76 000 $, ce qui pourrait déclencher un short squeeze.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-price-support-liquidation-zones",
+    "date": "2026-06-07",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Ethereum Price Defends Crucial Support Amid Whales Activity",
+        "excerpt": "Analyzing ETH price floor and the accumulation zones near the 50-day EMA.",
+        "content": "<p>Ethereum (ETH) continues to hold its ground above the key psychological support level. Price action shows aggressive defensive buying every time the asset dips near the 50-day EMA. Derivative markets indicate a healthy funding rate, suggesting the current price level is accumulation-driven rather than speculative hype.</p>"
+      },
+      "pt": {
+        "title": "Preço do Ethereum Defende Suporte Crucial com Atividade de Baleias",
+        "excerpt": "Analisando o piso de preço do ETH e as zonas de acumulação próximas à EMA de 50 dias.",
+        "content": "<p>O Ethereum (ETH) continua a defender sua posição acima do nível de suporte psicológico chave. A ação de preço mostra compras defensivas agressivas sempre que o ativo cai perto da EMA de 50 dias, sugerindo uma forte zona de acumulação.</p>"
+      },
+      "fr": {
+        "title": "Le prix d'Ethereum défend un support crucial face à l'activité des baleines",
+        "excerpt": "Analyse du plancher de prix de l'ETH et des zones d'accumulation proches de l'EMA de 50 jours.",
+        "content": "<p>L'Ethereum continue de maintenir son niveau de support psychologique. L'action des prix montre des achats défensifs agressifs à chaque fois que l'actif s'approche de l'EMA de 50 jours, indiquant une zone d'accumulation saine.</p>"
+      }
+    }
+  },
+  {
+    "slug": "render-price-volatility-ai-narrative",
+    "date": "2026-06-08",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "RENDER Price Analysis: High Volatility Signals Next Big Move",
+        "excerpt": "Following the money flow in RENDER price charts as trading volume spikes.",
+        "content": "<p>RENDER is showing signs of intense accumulation following a healthy 12% price correction. Volume profiles indicate that smart money is absorbing the sell pressure. A breakout above the current local resistance could easily push the price toward its previous quarterly highs.</p>"
+      },
+      "pt": {
+        "title": "Análise de Preço de RENDER: Alta Volatilidade Sinaliza Próximo Movimento",
+        "excerpt": "Acompanhando o fluxo de dinheiro nos gráficos de preço da RENDER com pico no volume.",
+        "content": "<p>O RENDER está mostrando sinais de acumulação intensa após uma correção saudável de 12% no preço. Os perfis de volume indicam que o smart money está absorvendo a pressão de venda, abrindo caminho para testar as máximas trimestrais.</p>"
+      },
+      "fr": {
+        "title": "Analyse du prix de RENDER : Une forte volatilité annonce le prochain mouvement",
+        "excerpt": "Suivi des flux de capitaux sur les graphiques de prix de RENDER alors que le volume grimpe.",
+        "content": "<p>RENDER montre des signes d'accumulation intense après une correction de prix saine de 12%. Les profils de volume indiquent que le 'smart money' absorbe la pression de vente, préparant le terrain pour tester les sommets trimestriels.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ionet-io-price-discovery-targets",
+    "date": "2026-06-09",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "io.net (IO) Price Discovery Mode: Technical Targets to Watch",
+        "excerpt": "Evaluating the mathematical support levels and RSI extensions for the IO token.",
+        "content": "<p>The IO token from io.net is exhibiting strong momentum, testing upper boundary targets. With short-term moving averages shifting into a golden cross, traders are keeping a close eye on the immediate resistance level. Holding the current support is vital for sustaining this macro uptrend.</p>"
+      },
+      "pt": {
+        "title": "io.net (IO) em Modo de Descoberta de Preço: Alvos Técnicos",
+        "excerpt": "Avaliando os níveis de suporte matemático e extensões de RSI para o token IO.",
+        "content": "<p>O token IO da io.net está exibindo um forte impulso, testando os alvos superiores. Com as médias móveis de curto prazo mudando para uma cruz dourada (golden cross), manter o suporte atual é vital para sustentar essa tendência de alta macro.</p>"
+      },
+      "fr": {
+        "title": "io.net (IO) en mode découverte de prix : Les objectifs techniques à surveiller",
+        "excerpt": "Évaluation des niveaux de support mathématiques et des extensions RSI pour le jeton IO.",
+        "content": "<p>Le jeton IO d'io.net affiche une forte dynamique, testant des objectifs plus élevés. Avec des moyennes mobiles à court terme formant un croisement haussier, le maintien du support actuel est vital pour cette tendance macro.</p>"
+      }
+    }
+  },
+  {
+    "slug": "bitcoin-ethereum-price-correlation-shift",
+    "date": "2026-06-10",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "BTC and ETH Price Correlation Matrix Shifts in June",
+        "excerpt": "How the price ratio between the two giants signals a potential altseason trigger.",
+        "content": "<p>The price correlation between Bitcoin and Ethereum has experienced a slight decoupling this week. As BTC consolidates its price, capital is visibly rotating into ETH, causing the ETH/BTC ratio to bounce from historical support lines—a move historically frontrunning an altcoin rally.</p>"
+      },
+      "pt": {
+        "title": "Matriz de Correlação de Preço entre BTC e ETH Muda em Junho",
+        "excerpt": "Como o rácio de preço entre os dois gigantes sinaliza um gatilho para a altseason.",
+        "content": "<p>A correlação de preço entre Bitcoin e Ethereum sofreu um leve descolamento esta semana. Enquanto o BTC consolida seu preço, o capital está rotacionando visivelmente para o ETH, fazendo o rácio ETH/BTC repicar de suportes históricos.</p>"
+      },
+      "fr": {
+        "title": "La corrélation de prix entre BTC et ETH évolue en juin",
+        "excerpt": "Comment le ratio de prix entre os deux géants annonce un signal pour les altcoins.",
+        "content": "<p>La corrélation des prix entre le Bitcoin et l'Ethereum a connu un léger découplage. Alors que le BTC se consolide, le capital se déplace visiblement vers l'ETH, provoquant un rebond du ratio ETH/BTC sur des supports historiques.</p>"
+      }
+    }
+  },
+  {
+    "slug": "render-vs-io-price-performance-depin",
+    "date": "2026-06-11",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Price Performance: RENDER vs. IO Token Strength",
+        "excerpt": "A comparative analysis of chart structures and market caps in the AI compute sector.",
+        "content": "<p>Analyzing the price action of the two computational giants reveals distinct trader behavior. RENDER acts as a high-liquidity large-cap benchmark, holding steady during corrections, while IO exhibits higher beta characteristics, providing deeper price dips but sharper reflexivity during market bounces.</p>"
+      },
+      "pt": {
+        "title": "Desempenho de Preço: Força Relativa entre RENDER e Token IO",
+        "excerpt": "Uma análise comparativa das estruturas de gráfico e market caps no setor de computação de IA.",
+        "content": "<p>Analisar a ação de preço dos dois gigantes computacionais revela comportamentos distintos. RENDER atua como o benchmark de alta liquidez e grande capitalização, enquanto o token IO exibe características de beta mais alto, com quedas mais profundas e repiques mais agressivos.</p>"
+      },
+      "fr": {
+        "title": "Performance des prix : Force relative entre RENDER et le jeton IO",
+        "excerpt": "Une analyse comparative des structures graphiques et des capitalisations du secteur de l'IA.",
+        "content": "<p>L'analyse de l'action des prix révèle des comportements distincts. RENDER agit comme la référence à forte liquidité, tandis que le jeton IO affiche un bêta plus élevé, avec des baisses plus prononcées mais des rebonds plus agressifs.</p>"
+      }
+    }
+  },
+  {
+    "slug": "crypto-market-weekend-price-liquidity",
+    "date": "2026-06-12",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Weekend Price Liquidity: Preparing for Thin Order Books",
+        "excerpt": "How price drops or spikes in BTC, ETH, RENDER, and IO can be amplified over the weekend.",
+        "content": "<p>As we head into the weekend, price charts for BTC, ETH, RENDER, and IO are showing signs of thinning liquidity. Lower order book depth means that market maker absences can amplify standard spot transactions, often resulting in classic weekend fakeouts before Monday's open.</p>"
+      },
+      "pt": {
+        "title": "Liquidez de Preço no Fim de Semana: Atenção aos Livros de Ordens Vazios",
+        "excerpt": "Como quedas ou picos de preço em BTC, ETH, RENDER e IO podem ser amplificados no fim de semana.",
+        "content": "<p>Ao entrarmos no fim de semana, os gráficos de preço de BTC, ETH, RENDER e IO mostram sinais de liquidez reduzida. A menor profundidade nos livros de ordens significa que a ausência de market makers pode amplificar movimentos, gerando rompimentos falsos.</p>"
+      },
+      "fr": {
+        "title": "Liquidité des prix le week-end : Attention aux carnets d'ordres minces",
+        "excerpt": "Comment les variations de prix sur le BTC, l'ETH, le RENDER et l'IO s'amplifient le week-end.",
+        "content": "<p>À l'approche du week-end, la liquidité diminue sur les graphiques de prix. Une profondeur moindre des carnets d'ordres signifie que les mouvements peuvent être amplifiés, provoquant les faux signaux classiques du week-end.</p>"
+      }
+    }
   }
 ]
 
