@@ -1891,6 +1891,336 @@
         "content": "<p>Alors que les bougies de juin et du T2 se clôturent, les repères techniques sont posés. Le Bitcoin préservant sa base, l'Ethereum ancré sur ses supports, et les actifs comme NEAR, RENDER, IO et DOG validant des planchers de consolidation solides, le marché prépare activement le mois de juillet.</p>"
       }
     }
+  },
+  {
+    "slug": "bitcoin-july-opening-market-liquidity",
+    "date": "2026-07-01",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Kicks Off July: Assessing the $55,000–$58,000 Support Range",
+        "excerpt": "Analyzing spot buyer absorption and order book depth as Q3 begins.",
+        "content": "<p>Bitcoin starts the new month squeezing inside a critical horizontal accumulation zone between $55,000 and $58,000. Chart indicators show significant buyer absorption around these structural lows, though a strong daily close above the 20-day EMA is still missing to confirm a true short-term reversal.</p>"
+      },
+      "pt": {
+        "title": "Bitcoin Inicia Julho: Avaliando a Faixa de Suporte de $55.000–$58.000",
+        "excerpt": "Analisando a absorção compradora no spot e a profundidade do livro de ordens no início do T3.",
+        "content": "<p>O Bitcoin começa o novo mês se estreitando dentro de uma zona crítica de acumulação horizontal entre US$ 55.000 e US$ 58.000. Os indicadores gráficos mostram uma absorção significativa por parte dos compradores nessas mínimas, embora ainda falte um fechamento diário firme acima da EMA de 20 dias.</p>"
+      },
+      "fr": {
+        "title": "Le Bitcoin entame juillet : Évaluation du support des 55 000 $ - 58 000 $",
+        "excerpt": "Analyse de l'absorption acheteuse sur le marché spot au début du T3.",
+        "content": "<p>Le Bitcoin commence le mois au sein d'une zone d'accumulation horizontale critique entre 55 000 $ et 58 000 $. Les indicateurs montrent une absorption acheteuse importante sur ces bas, bien qu'une clôture au-dessus de l'EMA de 20 jours soit attendue.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-price-defending-psychological-support",
+    "date": "2026-07-02",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Ethereum Price Action: Bulls Defend the $3,000 Major Threshold",
+        "excerpt": "Evaluating market structure as ETH charts display oversold momentum signs.",
+        "content": "<p>Ethereum (ETH) is undergoing a crucial test of its market structure, compressing heavily right around the $2,900 to $3,100 price bracket. The daily Relative Strength Index (RSI) is flashing near oversold conditions, hinting at an impending volatility bounce if whales stop their distribution walls.</p>"
+      },
+      "pt": {
+        "title": "Ação de Preço do Ethereum: Touros Defendem o Limiar dos $3.000",
+        "excerpt": "Avaliando a estrutura de mercado enquanto os gráficos do ETH exibem sinais de sobrevenda.",
+        "content": "<p>O Ethereum (ETH) passa por um teste crucial em sua estrutura de mercado, comprimindo-se fortemente ao redor da faixa de preço de US$ 2.900 a US$ 3.100. O Índice de Força Relativa (RSI) diário pisca perto de condições de sobrevenda, sugerindo um repique técnico iminente.</p>"
+      },
+      "fr": {
+        "title": "Action du prix d'Ethereum : Les acheteurs défendent le seuil des 3 000 $",
+        "excerpt": "Évaluation de la structure du marché alors que l'ETH affiche des signes de survente.",
+        "content": "<p>L'Ethereum subit un test crucial, se comprimant autour de la zone des 2 900 $ à 3 100 $. L'indicateur RSI quotidien approche des conditions de survente, laissant présager un rebond technique si la pression vendeuse s'atténue.</p>"
+      }
+    }
+  },
+  {
+    "slug": "render-token-price-exhaustion-signals",
+    "date": "2026-07-03",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "RENDER Price Setup: Testing Bottom Slices of the Technical Channel",
+        "excerpt": "Analyzing volume profiles and key baselines for the AI computation asset.",
+        "content": "<p>RENDER is trading near the lower bounds of its medium-term horizontal channel. Market volume has contracted over the past 48 hours, a behavior that often reflects selling exhaustion. Traders are waiting for an expansion of buy-side momentum before targeting higher local resistances.</p>"
+      },
+      "pt": {
+        "title": "Configuração de Preço de RENDER: Testando o Fundo do Canal Técnico",
+        "excerpt": "Analisando perfis de volume e linhas de base para o ativo de computação de IA.",
+        "content": "<p>O RENDER está sendo negociado perto dos limites inferiores de seu canal horizontal de médio prazo. O volume de mercado contraiu nas últimas 48 horas, um comportamento que costuma refletir exaustão de venda. Traders aguardam a retomada do ímpeto comprador.</p>"
+      },
+      "fr": {
+        "title": "Structure du RENDER : Test du bas du canal technique horizontal",
+        "excerpt": "Analyse des profils de volume et des supports pour l'actif de calcul IA.",
+        "content": "<p>RENDER s'échange près das limites inférieures de son canal horizontal à moyen terme. Le volume ayant fortement diminué, cela signale une exauston des vendeurs. Les traders surveillent le retour des volumes acheteurs.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ionet-io-price-compression-derivatives",
+    "date": "2026-07-04",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "io.net (IO) Price Discovery: Gauging Open Interest Fluctuations",
+        "excerpt": "How perpetual market liquidations are shaping the current IO spot chart.",
+        "content": "<p>The io.net (IO) native token is experiencing massive price compression following recent leverage wipeouts in derivatives. With Open Interest hitting a multi-week low, the asset is building an organic technical base, making it highly sensitive to any sudden tech-driven cash inflows.</p>"
+      },
+      "pt": {
+        "title": "Descoberta de Preço de io.net (IO): Medindo Flutuações de Open Interest",
+        "excerpt": "Como as liquidações do mercado perpétuo estão moldando o gráfico spot atual de IO.",
+        "content": "<p>O token nativo da io.net (IO) está passando por uma forte compressão de preço após as recentes limpezas de alavancagem nos derivativos. Com o Open Interest atingindo mínimas de várias semanas, o ativo constrói uma base técnica mais limpa e orgânica.</p>"
+      },
+      "fr": {
+        "title": "Prix d'io.net (IO) : Évaluation des fluctuations de l'Open Interest",
+        "excerpt": "Comment les liquidations des contrats perpétuels façonnent le graphique spot d'IO.",
+        "content": "<p>Le jeton IO d'io.net traverse une phase de compression des prix après l'apurement du levier sur les dérivés. L'Open Interest étant au plus bas, l'actif stabilise sa base graphique avant le prochain mouvement.</p>"
+      }
+    }
+  },
+  {
+    "slug": "dog-to-the-moon-runes-liquidity-floor",
+    "date": "2026-07-05",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Dog•Go•To•The•Moon (DOG) Price Defends Micro Structural Range",
+        "excerpt": "Tracking speculative volume and wallet movements within the main Bitcoin Runes token.",
+        "content": "<p>DOG•GO•TO•THE•MOON (DOG) remains the ultimate liquid proxy for Bitcoin Runes sentiment. Its price action shows tight defense over its immediate horizontal support zone. Volume profiles reveal accumulation by dedicated communities, offsetting temporary Bitcoin network fee pressures.</p>"
+      },
+      "pt": {
+        "title": "Dog•Go•To•The•Moon (DOG) Defende Faixa Estrutural de Preço",
+        "excerpt": "Rastreando o volume especulativo e movimentações no principal token Runes do Bitcoin.",
+        "content": "<p>O DOG•GO•TO•THE•MOON (DOG) segue como o principal termômetro de liquidez para as Runes do Bitcoin. Sua ação de preço mostra uma defesa firme na zona de suporte horizontal imediata, com perfis de volume revelando acumulação por carteiras locais.</p>"
+      },
+      "fr": {
+        "title": "Dog•Go•To•The•Moon (DOG) défend sa zone de prix structurelle",
+        "excerpt": "Suivi du volume spéculatif et des mouvements sur le jeton Runes leader.",
+        "content": "<p>DOG reste le proxy le plus liquide pour estimer le sentiment des Runes Bitcoin. L'action du prix montre une défense rigoureuse de son support horizontal, l'accumulation compensant les variations de frais du réseau.</p>"
+      }
+    }
+  },
+  {
+    "slug": "near-protocol-price-analysis-chain-abstraction",
+    "date": "2026-07-06",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "NEAR Protocol Chart Analysis: Testing the $4.50 Support Pivot",
+        "excerpt": "Evaluating NEAR price action as moving averages lean towards a consolidation phase.",
+        "content": "<p>NEAR Protocol is trading inside a clear corrective baseline, testing buyers' commitment at the $4.50–$5.00 key technical zone. Moving averages on the daily chart indicate that while the bears maintain short-term control, structural chain abstraction metrics support an institutional floor.</p>"
+      },
+      "pt": {
+        "title": "Análise Gráfica da NEAR Protocol: Testando o Pivô de Suporte de $4,50",
+        "excerpt": "Avaliando a ação de preço da NEAR com as médias móveis inclinadas para consolidação.",
+        "content": "<p>A NEAR Protocol está operando dentro de uma linha de base corretiva clara, testando o interesse comprador na zona técnica chave de US$ 4,50–US$ 5,00. O gráfico diário indica que, embora os ursos tenham controle de curto prazo, a estrutura fundamental segura o preço.</p>"
+      },
+      "fr": {
+        "title": "Analyse technique de NEAR Protocol : Test du pivot de support à 4,50 $",
+        "excerpt": "Évaluation du prix de NEAR alors que les moyennes mobiles penchent vers une consolidation.",
+        "content": "<p>NEAR Protocol évolue au sein d'une ligne de base corrective, testant la force des acheteurs sur la zone des 4,50 $ - 5,00 $. Les moyennes mobiles montrent une consolidation, stabilisée par l'adoption fondamentale du réseau.</p>"
+      }
+    }
+  },
+  {
+    "slug": "bitcoin-etf-flows-price-impact",
+    "date": "2026-07-07",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Institutional Order Blocks: How ETF Inflows are Stabilizing BTC Price",
+        "excerpt": "Reviewing data from spot markets as institutional buyers absorb liquidations.",
+        "content": "<p>Our cmStocks terminal indicates a positive shift in spot ETF net flows early this week. This institutional buying block is directly absorbing selling pressure on the spot market, preventing deeper liquidations and setting up a clear floor for Bitcoin's price trajectory.</p>"
+      },
+      "pt": {
+        "title": "Blocos de Ordens Institucionais: Como Fluxos de ETF Estabilizam o Preço do BTC",
+        "excerpt": "Revisando dados dos mercados spot à medida que compradores institucionais absorvem liquidações.",
+        "content": "<p>Nosso terminal cmStocks indica uma mudança positiva nos fluxos líquidos dos ETFs spot no início desta semana. Esse bloco de compras institucionais está absorvendo diretamente a pressão de venda do mercado à vista, desenhando um piso firme para a trajetória do Bitcoin.</p>"
+      },
+      "fr": {
+        "title": "Blocs d'ordres institutionnels : L'impact des flux d'ETF sur le prix du BTC",
+        "excerpt": "Analyse des données des marchés au comptant alors que les acheteurs absorbent les ventes.",
+        "content": "<p>Notre terminal cmStocks indique un retour positif des flux nets sur les ETF spot. Ce bloc d'achat institutionnel absorbe la pression vendeuse du marché au comptant, consolidant ainsi le plancher technique du Bitcoin.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-gas-price-correlation-analysis",
+    "date": "2026-07-08",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Ethereum Price Mechanics: Mainnet Gas Squeeze and ETH Price Floors",
+        "excerpt": "Following the correlation between Layer 2 execution costs and ETH spot trends.",
+        "content": "<p>With mainnet gas costs fluctuating lower due to mass Layer 2 scaling adoption, the deflationary burn rate of Ethereum has slowed down. We analyze how this macroeconomic change alters daily chart structures and why spot buyers are modifying their accumulation targets accordingly.</p>"
+      },
+      "pt": {
+        "title": "Mecânica de Preço do Ethereum: Compressão de Gas na Mainnet e Pisos do ETH",
+        "excerpt": "Acompanhando a correlação entre custos de execução em Camada 2 e tendências spot do ETH.",
+        "content": "<p>Com as tarifas de gas da rede principal flutuando em patamares baixos devido à adoção em massa das L2s, a queima deflacionária do Ethereum desacelerou. Analisamos como essa mudança macro altera as estruturas gráficas diárias e os alvos de acumulação.</p>"
+      },
+      "fr": {
+        "title": "Mécanique du prix d'Ethereum : Compression du Gas et planchers de l'ETH",
+        "excerpt": "Suivi de la corrélation entre les coûts des Layer 2 et les tendances spot de l'ETH.",
+        "content": "<p>Avec des frais de réseau principaux bas grâce à l'expansion des L2, le taux de combustion de l'Ethereum a ralenti. Nous analysons l'impact de ce changement sur les graphiques quotidiens et sur la stratégie des acheteurs spot.</p>"
+      }
+    }
+  },
+  {
+    "slug": "depin-sector-price-divergence-render-io",
+    "date": "2026-07-09",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "AI Compute Divergence: Comparing RENDER and IO Price Trajectories",
+        "excerpt": "Evaluating market caps and localized volume spikes in the decentralized hardware sector.",
+        "content": "<p>The decentralized hardware market is showcasing clear asset divergence. RENDER stands strong as a high-liquidity benchmark, building structural higher lows, while io.net (IO) exhibits a sharper technical beta, delivering volatile price bounces off its horizontal support lines.</p>"
+      },
+      "pt": {
+        "title": "Divergência em Computação de IA: Comparando Trajetórias de RENDER e IO",
+        "excerpt": "Avaliando capitalizações de mercado e picos locais de volume no setor de hardware descentralizado.",
+        "content": "<p>O mercado de hardware descentralizado está mostrando uma clara divergência entre ativos. RENDER se destaca como benchmark de alta liquidez, enquanto o token IO exibe um beta técnico mais acentuado, oferecendo repiques voláteis em seus suportes.</p>"
+      },
+      "fr": {
+        "title": "Divergence du secteur calcul IA : Comparaison des prix de RENDER et IO",
+        "excerpt": "Évaluation des capitalisations et des pics de volume du secteur matériel décentralisé.",
+        "content": "<p>Le marché du matériel décentralisé montre une divergence nette. RENDER s'impose comme la référence à forte liquidité, tandis qu'io.net (IO) affiche un bêta plus agressif, caractérisé par des rebonds volatils sur ses lignes de support.</p>"
+      }
+    }
+  },
+  {
+    "slug": "dog-token-price-volatility-whales-monitoring",
+    "date": "2026-07-10",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "DOG Price Check: Volatility Tightens Near Major Moving Averages",
+        "excerpt": "Is the leading Runes token preparing for a massive expansion move?",
+        "content": "<p>DOG•GO•TO•THE•MOON (DOG) chart structures indicate intense historical price compression. As daily candlesticks get smaller near key moving averages, technical traders anticipate a sharp directional move. Retaining the local demand zone is critical for maintaining a bullish layout.</p>"
+      },
+      "pt": {
+        "title": "Análise de Preço de DOG: Volatilidade Aperta Perto de Médias Móveis",
+        "excerpt": "O principal token Runes está se preparando para um forte movimento de expansão?",
+        "content": "<p>A estrutura gráfica do DOG•GO•TO•THE•MOON (DOG) indica uma forte compressão histórica de preços. À medida que as velas diárias diminuem perto de médias móveis chave, traders antecipam uma expansão direcional acentuada.</p>"
+      },
+      "fr": {
+        "title": "Analyse du prix de DOG : La volatilité se resserre près des moyennes mobiles",
+        "excerpt": "Le leader des Runes prépare-t-il un mouvement d'expansion massif ?",
+        "content": "<p>Le graphique de DOG indique une forte compression des prix. Alors que les bougies quotidiennes se réduisent près des moyennes mobiles clés, les traders s'attendent à un mouvement directionnel franc à court terme.</p>"
+      }
+    }
+  },
+  {
+    "slug": "near-protocol-ai-infrastructure-price-link",
+    "date": "2026-07-11",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "NEAR Protocol Price Resiliency Powered by AI Ecosystem Growth",
+        "excerpt": "How data clusters and user metrics are building a structural cushion for NEAR.",
+        "content": "<p>NEAR Protocol's price chart shows a noticeable decoupling from other Layer 1 assets during localized market drawdowns. This technical resilience is directly linked to its growing positioning as an AI-friendly blockchain data layer, keeping spot order flows consistently active.</p>"
+      },
+      "pt": {
+        "title": "Resiliência de Preço da NEAR Protocol Impulsionada pelo Ecossistema de IA",
+        "excerpt": "Como clusters de dados e métricas de usuário constroem um amortecedor estrutural para a NEAR.",
+        "content": "<p>O gráfico de preço da NEAR Protocol mostra um descolamento notável de outras L1s durante quedas localizadas do mercado. Essa resiliência técnica está ligada ao seu posicionamento crescente como uma camada de dados blockchain amigável à IA.</p>"
+      },
+      "fr": {
+        "title": "Résilience du prix de NEAR Protocol portée par l'écosystème IA",
+        "excerpt": "Comment les métriques d'utilisateurs forment un amortisseur structurel pour NEAR.",
+        "content": "<p>Le graphique de NEAR Protocol affiche un découplage intéressant par rapport aux autres Layer 1 lors des baisses. Cette force technique s'explique par son positionnement de couche de données adaptée aux modèles d'IA.</p>"
+      }
+    }
+  },
+  {
+    "slug": "bitcoin-weekly-candle-close-targets",
+    "date": "2026-07-12",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Price Outlook: Weekly Close Maps Out the Mid-July Path",
+        "excerpt": "Evaluating the technical patterns left by the latest weekly chart settle.",
+        "content": "<p>As the weekly candle locks in, Bitcoin showcases an interesting chart setup with long lower wicks cutting through liquidity layers. This price behavior signals strong institutional defense near the lower bands, although clear confirmation requires breaking immediate daily hurdles.</p>"
+      },
+      "pt": {
+        "title": "Perspectiva de Preço do Bitcoin: Fechamento Semanal Desenha o Caminho de Meio de Julho",
+        "excerpt": "Avaliando os padrões técnicos deixados pelo último fechamento gráfico semanal.",
+        "content": "<p>Com o fechamento da vela semanal, o Bitcoin exibe uma configuração interessante, com longas sombras inferiores cortando camadas de liquidez. Esse comportamento sinaliza forte defesa institucional, embora a confirmação exija romper resistências diárias.</p>"
+      },
+      "fr": {
+        "title": "Perspectives de prix du Bitcoin : La clôture hebdomadaire trace la voie de mi-juillet",
+        "excerpt": "Évaluation des modèles techniques laissés par la dernière bougie hebdomadaire.",
+        "content": "<p>La bougie hebdomadaire se clôture avec de longues mèches inférieures traversant les zones de liquidité. Ce comportement graphique confirme une défense institutionnelle solide sur les bas de marché actuels.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-eth-btc-ratio-altseason-signals",
+    "date": "2026-07-13",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "ETH/BTC Price Ratio Tests Multi-Month Technical Baseline",
+        "excerpt": "Why the cross-asset correlation is crucial for altcoin price reversals this quarter.",
+        "content": "<p>The ETH/BTC price ratio is trading directly on a major macro technical baseline. Historical setups indicate that when Ethereum starts outperforming Bitcoin at these price structures, speculative capital rapidly rotates into high-utility altcoins like NEAR and RENDER.</p>"
+      },
+      "pt": {
+        "title": "Rácio de Preço ETH/BTC Testa Linha de Base Técnica de Vários Meses",
+        "excerpt": "Por que a correlação entre os ativos é crucial para reversões de preço das altcoins.",
+        "content": "<p>O rácio de preço ETH/BTC está sendo negociado diretamente em uma grande linha de base técnica macro. Estruturas históricas indicam que quando o Ethereum supera o Bitcoin nesses níveis, o capital rotaciona rapidamente para altcoins utilitárias.</p>"
+      },
+      "fr": {
+        "title": "Le ratio de prix ETH/BTC teste son support technique macro",
+        "excerpt": "Pourquoi cette corrélation est cruciale pour le retournement des altcoins ce trimestre.",
+        "content": "<p>Le ratio de prix ETH/BTC s'échange sur un support macro de premier ordre. Historiquement, lorsque l'Ethereum surperforme le Bitcoin sur ces structures, les capitaux se déplacent rapidement vers les altcoins comme NEAR et RENDER.</p>"
+      }
+    }
+  },
+  {
+    "slug": "depin-render-io-market-makers-liquidity",
+    "date": "2026-07-14",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Order Book Analysis: Market Maker Layers in RENDER and IO Tokens",
+        "excerpt": "Evaluating bid-ask spreads and liquidity blocks inside the AI compute charts.",
+        "content": "<p>A detailed analysis of order book depth across our integrated exchanges reveals that market makers are thickening their bid profiles for both RENDER and IO. This accumulation layer suggests that professional desks are preparing for an expansion phase, absorbing retail panics.</p>"
+      },
+      "pt": {
+        "title": "Análise do Livro de Ordens: Camadas de Market Makers em RENDER e IO",
+        "excerpt": "Avaliando spreads de compra/venda e blocos de liquidez nos gráficos de computação de IA.",
+        "content": "<p>Uma análise detalhada da profundidade do livro de ordens revela que os market makers estão engrossando seus perfis de compra para RENDER e IO. Esse bloco de acumulação sugere que mesas profissionais estão absorvendo as vendas do varejo.</p>"
+      },
+      "fr": {
+        "title": "Analyse des carnets d'ordres : Les couches de Market Makers sur RENDER et IO",
+        "excerpt": "Évaluation des spreads et des blocs de liquidité sur les graphiques de calcul IA.",
+        "content": "<p>L'analyse de la profondeur des carnets d'ordres révèle que les teneurs de marché renforcent leurs positions à l'achat sur RENDER et IO, suggérant que les professionnels absorbent activement les ventes de capitulation.</p>"
+      }
+    }
+  },
+  {
+    "slug": "crypto-market-mid-july-price-settlement",
+    "date": "2026-07-15",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Mid-July Market Review: Structural Price Anchors Validated",
+        "excerpt": "How technical boundaries formed over the last 15 days shape the rest of the month.",
+        "content": "<p>The first half of July concludes with clearly defined technical structures. With Bitcoin stabilizing its baseline, Ethereum defending psychological boundaries, and high-beta networks like NEAR, RENDER, IO, and DOG printing solid horizontal floors, the market presents a clean technical landscape for late-month expansions.</p>"
+      },
+      "pt": {
+        "title": "Revisão de Meio de Julho: Âncoras Estruturais de Preço Validadas",
+        "excerpt": "Como as fronteiras técnicas formadas nos últimos 15 dias moldam o restante do mês.",
+        "content": "<p>A primeira metade de julho se encerra com estruturas técnicas claramente definidas. Com o Bitcoin estabilizando sua base, o Ethereum defendendo marcas psicológicas, e redes como NEAR, RENDER, IO e DOG imprimindo fundos horizontais sólidos, o cenário gráfico está limpo.</p>"
+      },
+      "fr": {
+        "title": "Bilan de mi-juillet : Validation des ancres de prix structurelles",
+        "excerpt": "Comment les bornes techniques formées ces 15 derniers jours orientent la fin du mois.",
+        "content": "<p>La première quinzaine de juillet s'achève sur des structures techniques bien définies. Le Bitcoin stabilisant sa base, l'Ethereum protégeant ses seuils et les actifs NEAR, RENDER, IO et DOG validant des planchers horizontaux, le marché assainit ses graphiques.</p>"
+      }
+    }
   }
 ]
 
