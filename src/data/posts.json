@@ -2221,6 +2221,226 @@
         "content": "<p>La première quinzaine de juillet s'achève sur des structures techniques bien définies. Le Bitcoin stabilisant sa base, l'Ethereum protégeant ses seuils et les actifs NEAR, RENDER, IO et DOG validant des planchers horizontaux, le marché assainit ses graphiques.</p>"
       }
     }
+  },
+  {
+    "slug": "bitcoin-price-mid-july-short-squeeze",
+    "date": "2026-07-16",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Squeezes Shorters: Reclaiming the $63,000 Technical Mark",
+        "excerpt": "A surge in spot demand triggers liquidations, shifting short-term market control.",
+        "content": "<p>Bitcoin recorded a strong daily expansion, breaking above local overhead resistances to reclaim the $63,000 level. Data from the cmStocks terminal highlights that a sudden wipeout of over-leveraged short positions fueled the momentum, turning prior resistance lines into immediate demand cushions.</p>"
+      },
+      "pt": {
+        "title": "Bitcoin Espreme Vendidos: Retomando a Marca Técnica dos $63.000",
+        "excerpt": "Um pico na demanda spot dispara liquidações, mudando o controle do mercado no curto prazo.",
+        "content": "<p>O Bitcoin registrou uma forte expansão diária, rompendo resistências locais para retomar o nível de US$ 63.000. Dados do terminal cmStocks destacam que uma limpeza repentina de posições vendidas (short squeeze) alimentou o ímpeto, transformando antigas resistências em suportes imediatos.</p>"
+      },
+      "fr": {
+        "title": "Le Bitcoin liquide les positions short : Retour au-dessus des 63 000 $",
+        "excerpt": "Une hausse de la demande spot déclenche des liquidations massives des vendeurs.",
+        "content": "<p>Le Bitcoin a enregistré une forte expansion quotidienne, franchissant les résistances locales pour reconquérir les 63 000 $. Les données du terminal cmStocks soulignent qu'un nettoyage des positions courtes à fort levier a alimenté ce mouvement haussier.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-price-action-bullish-expansion-targets",
+    "date": "2026-07-17",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Ethereum Momentum Shift: Eyes on the Next $3,400 Resistance Block",
+        "excerpt": "ETH mirrors Bitcoin’s strength, validating key support zones on the daily chart.",
+        "content": "<p>Following the market-wide recovery, Ethereum (ETH) solidifies its position well above the crucial psychological floor. The daily candles are printing consistent higher lows, shifting the near-term price targets toward the next major order block situated at the $3,400 horizontal resistance zone.</p>"
+      },
+      "pt": {
+        "title": "Mudança de Momento no Ethereum: Olhos no Próximo Bloco de Resistência de $3.400",
+        "excerpt": "O ETH espelha a força do Bitcoin, validando zonas de suporte chave no gráfico diário.",
+        "content": "<p>Seguindo a recuperação geral do mercado, o Ethereum (ETH) solidifica sua posição bem acima do piso psicológico crucial. As velas diárias imprimem fundos ascendentes consistentes, deslocando os alvos de curto prazo em direção ao próximo grande bloco de ordens na resistência de US$ 3.400.</p>"
+      },
+      "fr": {
+        "title": "Ethereum change de dynamique : Objectif fixé sur la résistance des 3 400 $",
+        "excerpt": "L'ETH imite la force du Bitcoin, validant des zones de support clés sur le graphique.",
+        "content": "<p>Suite à la reprise globale, l'Ethereum (ETH) consolide sa position bien au-dessus de son plancher psychologique. Les bougies quotidiennes dessinent des bas plus hauts, orientant les objectifs à court terme vers le prochain bloc d'ordres majeurs situé à 3 400 $.</p>"
+      }
+    }
+  },
+  {
+    "slug": "render-network-coinbase-listing-liquidity-cushion",
+    "date": "2026-07-18",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "RENDER Price Analysis: Assessing Liquidity Post-Exchange Integration",
+        "excerpt": "How new spot trading channels are backing the RENDER chart structure at $1.45.",
+        "content": "<p>RENDER continues to navigate its technical accumulation layout around the $1.45–$1.50 range. The recently added institutional trading access provides a solid liquidity cushion, reducing tail-risk volatility and allowing the decentralized AI computing asset to absorb spot sell-offs more efficiently.</p>"
+      },
+      "pt": {
+        "title": "Análise de Preço de RENDER: Avaliando a Liquidez Pós-Integração em Exchanges",
+        "excerpt": "Como novos canais de negociação spot sustentam a estrutura gráfica de RENDER em $1,45.",
+        "content": "<p>O RENDER continua a navegar em sua estrutura técnica de acumulação ao redor da faixa de US$ 1,45–US$ 1,50. O acesso recente a novos canais institucionais oferece um colchão de liquidez robusto, reduzindo a volatilidade extrema e ajudando o ativo a absorver realizações spot de forma mais eficiente.</p>"
+      },
+      "fr": {
+        "title": "Analyse du RENDER : Évaluation de la liquidité après l'intégration sur les exchanges",
+        "excerpt": "Comment les nouveaux canaux de trading spot soutiennent la structure du RENDER à 1,45 $.",
+        "content": "<p>RENDER continue d'évoluer dans sa zone d'accumulation technique autour des 1,45 $ - 1,50 $. L'accès récent à de nouveaux canaux institutionnels fournit un coussin de liquidité solide, atténuant la volatilité extrême et stabilisant la structure.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ionet-io-price-stabilization-hardware-networks",
+    "date": "2026-07-19",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "io.net (IO) Price Settles as Network Supply Aggregation Grows",
+        "excerpt": "Reviewing spot demand metrics for the DePIN token near its horizontal floor.",
+        "content": "<p>The native token of io.net (IO) is demonstrating price stabilization near the $0.14–$0.15 cluster. Despite intense derivatives liquidations earlier in July, long-term investors are stepping in, fueled by the protocol's sustained growth in GPU cluster capacity allocations.</p>"
+      },
+      "pt": {
+        "title": "Preço de io.net (IO) Estabiliza com Crescimento da Agregação de Hardware",
+        "excerpt": "Revisando métricas de demanda spot para o token DePIN perto de seu piso horizontal.",
+        "content": "<p>O token nativo da io.net (IO) demonstra estabilização de preço próxima ao cluster de US$ 0,14–US$ 0,15. Apesar das intensas liquidações em derivativos no início do mês, investidores de longo prazo começam a atuar, impulsionados pelo crescimento na alocação de clusters de GPU.</p>"
+      },
+      "fr": {
+        "title": "Le prix d'io.net (IO) se stabilise avec la croissance du réseau matériel",
+        "excerpt": "Examen des métriques de demande spot pour le jeton DePIN près de son plancher.",
+        "content": "<p>Le jeton nativo d'io.net (IO) montre des signes de stabilisation autour de la zone des 0,14 $ - 0,15 $. Malgré les fortes liquidations subies sur les dérivés début juillet, les acheteurs de long terme se manifestent, encouragés par la croissance de l'infrastructure GPU.</p>"
+      }
+    }
+  },
+  {
+    "slug": "dog-to-the-moon-runes-volume-breakout-watch",
+    "date": "2026-07-20",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "DOG Price Consolidation: Chart Formation Patterns Point to Volatility Spike",
+        "excerpt": "Tracking the Runes benchmark token as daily ranges shrink to multi-week minimums.",
+        "content": "<p>DOG•GO•TO•THE•MOON (DOG) is printing a classic technical wedge pattern on the micro-timeframe charts. Volume profiles have slowed down, revealing a severe compression that historical cycles suggest precedes a major directional volatility expansion within the Bitcoin layers.</p>"
+      },
+      "pt": {
+        "title": "Consolidação de DOG: Padrões Gráficos Apontam para Pico de Volatilidade",
+        "excerpt": "Rastreando o token de referência das Runes enquanto os intervalos diários encolhem.",
+        "content": "<p>O DOG•GO•TO•THE•MOON (DOG) está desenhando um padrão clássico de cunha técnica nos gráficos de menor tempo. O perfil de volume desacelerou, revelando uma forte compressão que, historicamente, antecede expansões acentuadas de volatilidade nas camadas do Bitcoin.</p>"
+      },
+      "fr": {
+        "title": "Consolidation du DOG : Les configurations graphiques prévoient de la volatilité",
+        "excerpt": "Suivi du jeton Runes alors que les fourchettes quotidiennes se resserrent au maximum.",
+        "content": "<p>DOG•GO•TO•THE•MOON (DOG) imprime un motif de biseau technique classique. Les profils de volume ont ralenti, révélant une compression sévère qui précède généralement une expansion de la volatilité directionnelle sur les couches Bitcoin.</p>"
+      }
+    }
+  },
+  {
+    "slug": "near-protocol-price-rebound-moving-averages",
+    "date": "2026-07-21",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "NEAR Protocol Reclaims Key Moving Averages: Structural Shift Confirmed",
+        "excerpt": "An influx of Web3 transactional volume pushes NEAR out of its local downtrend.",
+        "content": "<p>NEAR Protocol successfully broke through its immediate daily descending trendline, reclaiming crucial moving averages. This structural shift signals an increase in spot buying activity, backed by robust transaction volumes across its sharded mainnet layers.</p>"
+      },
+      "pt": {
+        "title": "NEAR Protocol Retoma Médias Móveis Chave: Mudança Estrutural Confirmada",
+        "excerpt": "Um influxo de volume transacional Web3 empurra a NEAR para fora de sua tendência de baixa local.",
+        "content": "<p>A NEAR Protocol rompeu com sucesso sua linha de tendência de baixa diária imediata, retomando médias móveis cruciais. Essa mudança estrutural sinaliza um aumento na atividade de compra no spot, respaldada por volumes robustos de transações em sua rede fragmentada.</p>"
+      },
+      "fr": {
+        "title": "NEAR Protocol reconquiert ses moyennes mobiles : Changement structurel validé",
+        "excerpt": "Un afflux de volume transactionnel Web3 pousse NEAR hors de sa tendance baissière.",
+        "content": "<p>NEAR Protocol a franchi sa ligne de tendance baissière quotidienne, reprenant des moyennes mobiles cruciales. Ce changement structurel signale un regain d'intérêt à l'achat, soutenu par des volumes de transactions robustes sur son réseau.</p>"
+      }
+    }
+  },
+  {
+    "slug": "bitcoin-price-open-interest-derivatives-risks",
+    "date": "2026-07-22",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Open Interest Rises: Analyzing Leverage Risks at High Levels",
+        "excerpt": "As BTC holds the $64,000 baseline, derivatives metrics flag incoming swings.",
+        "content": "<p>With Bitcoin comfortably holding onto its newly established $64,000 support baseline, Open Interest in the perpetual futures market has surged. Technical analysts at cmStocks warn that while this shows growing speculative confidence, it also raises the probability of quick leverage wipes.</p>"
+      },
+      "pt": {
+        "title": "Open Interest do Bitcoin Sobe: Analisando Riscos de Alavancagem em Níveis Altos",
+        "excerpt": "Enquanto o BTC sustenta a base de $64.000, métricas de derivativos sinalizam oscilações.",
+        "content": "<p>Com o Bitcoin sustentando a base de suporte de US$ 64.000, o Open Interest no mercado de futuros perpétuos subiu de forma expressiva. Analistas da cmStocks alertam que, embora isso mostre confiança especulativa, também eleva a probabilidade de oscilações bruscas por desalavancagem.</p>"
+      },
+      "fr": {
+        "title": "L'Open Interest du Bitcoin grimpe : Analyse des risques de levier sur les sommets",
+        "excerpt": "Alors que le BTC maintient les 64 000 $, les dérivés signalent des secousses à venir.",
+        "content": "<p>Le Bitcoin maintenant son support à 64 000 $, l'Open Interest sur les contrats à terme perpétuels a fortement augmenté. Les analystes de cmStocks préviennent que cette accumulation de levier accroît la probabilité de chasses aux stops rapides.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-spot-demand-whale-accumulation-wallets",
+    "date": "2026-07-23",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Ethereum Whale Wallets Resume Accumulation Phase as Spot Supply Dips",
+        "excerpt": "On-chain data indicates substantial outflows from exchanges into cold storage.",
+        "content": "<p>On-chain tracking metrics reveal a noticeable pattern of Ethereum leaving centralized exchanges toward whale-controlled cold storage wallets. This reduction in liquid spot supply acts as a strong macro fundamental driver, tightening market order books for the next technical leg up.</p>"
+      },
+      "pt": {
+        "title": "Carteiras de Baleias de Ethereum Retomam Acumulação com Queda no Fornecimento Spot",
+        "excerpt": "Dados on-chain indicam saídas substanciais de exchanges para armazenamento frio.",
+        "content": "<p>Métricas de rastreamento on-chain revelam um padrão notável de Ethereum deixando exchanges centralizadas rumo a carteiras frias de grandes players. Essa redução no fornecimento líquido atua como um forte motor fundamental, estreitando os livros de ofertas para o próximo movimento.</p>"
+      },
+      "fr": {
+        "title": "Les baleines d'Ethereum reprennent l'accumulation alors que l'offre spot baisse",
+        "excerpt": "Les données on-chain indiquent des sorties substantielles des plateformes d'échange.",
+        "content": "<p>Les indicateurs de suivi on-chain révèlent un flux sortant important d'Ethereum des plateformes centralisées vers les portefeuilles froids des baleines. Cette baisse de l'offre liquide renforce les fondamentaux macroéconomiques à l'approche des résistances.</p>"
+      }
+    }
+  },
+  {
+    "slug": "depin-ai-tokens-correlation-nvidia-earnings-sentiment",
+    "date": "2026-07-24",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "DePIN Macro Engine: How Global Tech Shifts Impact RENDER and IO Pricing",
+        "excerpt": "Evaluating the tight connection between compute networks and equity market indices.",
+        "content": "<p>The technical setups for RENDER and io.net (IO) are displaying an increasingly strong correlation with macro traditional tech indices. As computational hardware demand remains a structural focal point worldwide, capital flows alternate dynamically between AI equities and decentralized crypto equivalents.</p>"
+      },
+      "pt": {
+        "title": "Motor Macro DePIN: Como Mudanças Tech Globais Impactam os Preços de RENDER e IO",
+        "excerpt": "Avaliando a forte conexão entre redes de computação e índices do mercado de ações.",
+        "content": "<p>As configurações técnicas de RENDER e io.net (IO) exibem uma correlação cada vez mais forte com os índices macro de tecnologia tradicional. Como a demanda por hardware de computação continua central no mundo, os fluxos de capital se alternam de forma dinâmica entre ações de tecnologia e seus equivalentes cripto.</p>"
+      },
+      "fr": {
+        "title": "Moteur macro DePIN : L'impact des indices technologiques sur RENDER et IO",
+        "excerpt": "Évaluation de la connexion étroite entre les réseaux de calcul et le marché action.",
+        "content": "<p>Les structures graphiques de RENDER et io.net (IO) affichent une corrélation grandissante avec les indices technologiques traditionnels. La demande mondiale de puces restant forte, les capitaux basculent de manière dynamique entre les actions tech et les projets crypto DePIN.</p>"
+      }
+    }
+  },
+  {
+    "slug": "crypto-market-july-late-expansion-forecast",
+    "date": "2026-07-25",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Late-July Technical Settle: Market Structures Prepare for Monthly Closing Blocks",
+        "excerpt": "A comprehensive summary of horizontal floors across BTC, ETH, NEAR, and DePIN assets.",
+        "content": "<p>As the final week of the month approaches, crypto asset charts validate high-quality consolidation floors. With Bitcoin locking down its position above the $63k zone and altcoins like NEAR, RENDER, and IO printing higher baselines, the technical infrastructure is perfectly set up for monthly close volatility.</p>"
+      },
+      "pt": {
+        "title": "Fechamento Técnico do Final de Julho: Estruturas se Preparam para o Fim do Mês",
+        "excerpt": "Um resumo abrangente dos pisos horizontais em ativos BTC, ETH, NEAR e DePIN.",
+        "content": "<p>À medida que a última semana do mês se aproxima, os gráficos de criptoativos validam pisos de consolidação de alta qualidade. Com o Bitcoin defendendo sua posição acima da zona de US$ 63k e altcoins como NEAR, RENDER e IO desenhando linhas de base mais altas, a infraestrutura técnica está montada para o fechamento mensal.</p>"
+      },
+      "fr": {
+        "title": "Clôture technique de fin juillet : Les structures se préparent aux blocs mensuels",
+        "excerpt": "Un résumé complet des planchers horizontaux sur le BTC, l'ETH, NEAR et le secteur DePIN.",
+        "content": "<p>À l'approche de la dernière semaine du mois, les graphiques crypto valident des planchers de consolidation de qualité. Le Bitcoin protégeant ses acquis au-dessus des 63 000 $ et les altcoins (NEAR, RENDER, IO) affichant des bases plus élevées, la structure est prête pour la volatilité de fin de mois.</p>"
+      }
+    }
   }
 ]
 
