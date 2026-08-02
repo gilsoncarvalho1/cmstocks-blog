@@ -2573,6 +2573,160 @@
         "content": "<p>Le marché des cryptomonnaies termine le mois de juillet sur une note technique encourageante. NEAR Protocol maintient des bas plus hauts, en accord avec la stabilisation du Bitcoin à 65 000 $ et le maintien de l'Ethereum au-dessus de 1 900 $. Les secteurs IA et DePIN offrent des structures propres pour aborder le mois d'août.</p>"
       }
     }
+  },
+  {
+    "slug": "bitcoin-price-august-start-support-test",
+    "date": "2026-08-01",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Bitcoin Tests $62,800 Support Floor Amid Broader Macro Headwinds",
+        "excerpt": "A temporary pullback in tech equities and Fed rate signals puts pressure on BTC spot prices.",
+        "content": "<p>Bitcoin opened August with a retest of its two-week low around the $62,800 level. Fading optimism around interest rate cuts combined with earnings reports from crypto-adjacent equities pushed short-term traders to de-risk, placing key support tests back at the $62,500–$63,000 horizontal demand zone.</p>"
+      },
+      "pt": {
+        "title": "Bitcoin Testa Suporte de $62.800 Diante de Vento Contrário no Cenário Macro",
+        "excerpt": "Recuo temporário no setor de tecnologia e sinais do Fed pressionam a cotação spot do BTC.",
+        "content": "<p>O Bitcoin iniciou agosto testando mínimas de duas semanas na região dos US$ 62.800. O arrefecimento das expectativas de cortes de juros e relatórios de resultados corporativos levaram operadores a reduzir exposição, direcionando os testes de suporte de volta para a faixa entre US$ 62.500 e US$ 63.000.</p>"
+      },
+      "fr": {
+        "title": "Le Bitcoin teste le support des 62 800 $ face aux vents contraires macroéconomiques",
+        "excerpt": "Un repli temporaire des valeurs technologiques et les signaux de la Fed pèsent sur le BTC.",
+        "content": "<p>Le Bitcoin a débuté le mois d'août en retestant ses plus bas de deux semaines autour de 62 800 $. L'affaiblissement de l'optimisme quant aux baisses de taux a poussé les traders à réduire leur levier, ramenant les cours vers la zone de support située entre 62 500 $ et 63 000 $.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ethereum-price-pullback-support-defense",
+    "date": "2026-08-02",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "Ethereum Defends $1,850 Demand Zone Following Market Pullback",
+        "excerpt": "ETH charts show strong buyer absorption near key daily exponential moving averages.",
+        "content": "<p>Following broader market correction forces, Ethereum (ETH) retraced toward the $1,850 level. On-chain volume metrics indicate substantial order book absorption near this liquidity pocket, with long-term holders treating the pullback as an entry channel ahead of upcoming network upgrades.</p>"
+      },
+      "pt": {
+        "title": "Ethereum Defende Zona de Demanda em $1.850 Após Correção Geral do Mercado",
+        "excerpt": "Gráficos de ETH mostram forte absorção de compradores perto das médias móveis diárias.",
+        "content": "<p>Acompanhando a correção geral do mercado, o Ethereum (ETH) recuou em direção ao nível de US$ 1.850. Métricas de volume mostram expressiva absorção de ordens nessa faixa de liquidez, com investidores de longo prazo encarando o recuo como janela de acumulação.</p>"
+      },
+      "fr": {
+        "title": "L'Ethereum défend la zone de demande des 1 850 $ après le repli du marché",
+        "excerpt": "Les graphiques de l'ETH montrent une forte absorption acheteuse près des moyennes mobiles.",
+        "content": "<p>Suivant la correction globale du marché, l'Ethereum (ETH) s'est replié vers le niveau des 1 850 $. Les indicateurs de volume révèlent uma importante absorption d'ordres d'achat sur cette zone, les investisseurs de long terme profitant de ce repli pour accumuler.</p>"
+      }
+    }
+  },
+  {
+    "slug": "render-network-consolidation-ai-compute-demand",
+    "date": "2026-08-03",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "RENDER Holds Above $1.45 Support Range as Computing Network Usage Scales",
+        "excerpt": "Decentralized GPU utilization offsets short-term speculative token volatility.",
+        "content": "<p>Despite weakness across high-beta altcoins, RENDER continues to maintain a stable horizontal base between $1.45 and $1.48. Fundamental growth in GPU job execution across the network provides an ongoing floor against aggressive short positions.</p>"
+      },
+      "pt": {
+        "title": "RENDER Sustenta Base Acima de $1,45 com Crescimento do Uso da Rede GPU",
+        "excerpt": "A utilização de computação descentralizada compensa a volatilidade especulativa.",
+        "content": "<p>Apesar da fraqueza generalizada em altcoins de maior beta, o RENDER mantém sua base horizontal estável entre US$ 1,45 e US$ 1,48. O crescimento fundamental no processamento de tarefas de renderização e IA pela rede oferece sustentação sólida contra vendas fortes.</p>"
+      },
+      "fr": {
+        "title": "RENDER se maintient au-dessus de 1,45 $ grâce à la demande en calcul IA",
+        "excerpt": "L'utilisation du réseau GPU décentralisé compense la volatilité à court terme.",
+        "content": "<p>Malgré la faiblesse générale des altcoins, RENDER conserve une base horizontale stable entre 1,45 $ et 1,48 $. La croissance fondamentale du traitement de calculs graphiques et d'IA sur le réseau continue d'offrir un soutien solide au cours.</p>"
+      }
+    }
+  },
+  {
+    "slug": "ionet-io-floor-stability-depin-metrics",
+    "date": "2026-08-04",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "io.net (IO) Shows Resilience Around $0.14 Floor as Hardware Supply Expands",
+        "excerpt": "DePIN protocol metrics reflect stable cluster deployment despite macro headwinds.",
+        "content": "<p>The io.net (IO) native asset demonstrates strong chart stabilization near its $0.14 technical support. With the protocol's aggregated compute capacity showing consistent month-over-month growth, spot buyers are steadily building positions around these historical accumulation lows.</p>"
+      },
+      "pt": {
+        "title": "io.net (IO) Demonstra Resiliência no Piso de $0,14 com Expansão do Ecossistema",
+        "excerpt": "Métricas do protocolo DePIN refletem estabilidade na alocação de hardware.",
+        "content": "<p>O token nativo da io.net (IO) apresenta estabilização gráfica consistente ao redor do suporte técnico em US$ 0,14. Com a capacidade computacional agregada do protocolo registrando crescimento contínuo, compradores spot seguem montando posições nessas zonas de acumulação.</p>"
+      },
+      "fr": {
+        "title": "io.net (IO) fait preuve de résilience à 0,14 $ alors que l'offre matérielle croît",
+        "excerpt": "Les indicateurs du protocole DePIN montrent un déploiement stable des clusters GPU.",
+        "content": "<p>Le jeton io.net (IO) affiche une stabilisation solide à proximité de son support technique à 0,14 $. Avec une capacité de calcul agrégée en hausse régulière, les acheteurs au comptant accumulent progressivement sur ces niveaux clés.</p>"
+      }
+    }
+  },
+  {
+    "slug": "dog-to-the-moon-runes-support-retest",
+    "date": "2026-08-05",
+    "category": "TECHNICAL",
+    "languages": {
+      "en": {
+        "title": "DOG•GO•TO•THE•MOON Accumulates Near Base Support Zone as Volume Dips",
+        "excerpt": "Technical compression in Runes assets points to a late-summer volatility reset.",
+        "content": "<p>DOG•GO•TO•THE•MOON (DOG) is trading near the lower boundary of its multi-week consolidation channel. Low daily volume profiles indicate a period of quiet accumulation within the Bitcoin native asset ecosystem, setting up a compressed coil structure on higher timeframes.</p>"
+      },
+      "pt": {
+        "title": "DOG•GO•TO•THE•MOON Acumula Próximo ao Suporte com Queda no Volume Diário",
+        "excerpt": "Compressão técnica no ecossistema Runes indica preparação para movimento volatilidade.",
+        "content": "<p>O DOG•GO•TO•THE•MOON (DOG) negocia próximo limite inferior do seu canal de consolidação. Os perfis de volume reduzido refletem uma fase de acumulação silenciosa no ecossistema de Runes do Bitcoin, estruturando uma compressão técnica nos tempos gráficos maiores.</p>"
+      },
+      "fr": {
+        "title": "DOG•GO•TO•THE•MOON s'accumule près de son support avec des volumes en baisse",
+        "excerpt": "La compression technique sur les jetons Runes prépare un retour de la volatilité.",
+        "content": "<p>DOG•GO•TO•THE•MOON (DOG) évolue près de la borne inférieure de son canal de consolidation. La baisse des volumes quotidiens traduit une phase d'accumulation calme sur l'écosystème Runes, posant les bases de la prochaine impulsion technique.</p>"
+      }
+    }
+  },
+  {
+    "slug": "near-protocol-price-structure-web3-activity",
+    "date": "2026-08-06",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "NEAR Protocol Holds Moving Average Support as On-Chain Transactions Surge",
+        "excerpt": "Robust Web3 user metrics provide structural support against market sell-offs.",
+        "content": "<p>NEAR Protocol is maintaining its structural setup above major daily moving average supports. High daily active wallet interactions and scaling transaction throughput continue to validate the layer-1 chain's fundamental strength amidst macro crypto market chop.</p>"
+      },
+      "pt": {
+        "title": "NEAR Protocol Sustenta Suporte de Média Móvel com Alta em Transações On-Chain",
+        "excerpt": "Métricas robustas de usuários na Web3 oferecem suporte estrutural ao ativo.",
+        "content": "<p>O NEAR Protocol preserva sua estrutura técnica acima dos suportes de médias móveis diárias. A alta no número de carteiras ativas e a expansão no volume transacional continuam validando a força fundamental da blockchain em meio às oscilações do mercado cripto.</p>"
+      },
+      "fr": {
+        "title": "NEAR Protocol maintient ses moyennes mobiles grâce à la hausse des transactions",
+        "excerpt": "Les métriques Web3 solides soutiennent la structure du cours face au marché.",
+        "content": "<p>NEAR Protocol conserve sa configuration haussière au-dessus de ses moyennes mobiles majeures. L'activité soutenue des portefeuilles et l'augmentation des transactions valident la solidité fondamentale du réseau Layer-1.</p>"
+      }
+    }
+  },
+  {
+    "slug": "bitcoin-ethereum-market-stabilization-weekly-close",
+    "date": "2026-08-07",
+    "category": "MARKET",
+    "languages": {
+      "en": {
+        "title": "Weekly Market Recap: BTC and ETH Build Stabilization Floors Ahead of Macro Data",
+        "excerpt": "Crypto assets lock in tight ranges as spot buyers defend $63k BTC and $1.85k ETH.",
+        "content": "<p>As the first week of August draws to a close, crypto markets display signs of technical stabilization. Bitcoin is consolidating firmly above $63,000, while Ethereum holds $1,850. Altcoins including RENDER, IO, and NEAR are building rounded bottoms, signaling potential readiness for renewed upside momentum.</p>"
+      },
+      "pt": {
+        "title": "Resumo Semanal: BTC e ETH Constroem Pisos de Estabilização Antes de Dados Macro",
+        "excerpt": "Ativos digitais travam em faixas estreitas com defesa de $63k no BTC e $1.85k no ETH.",
+        "content": "<p>Com o encerramento da primeira semana de agosto, o mercado cripto mostra sinais claros de estabilização técnica. O Bitcoin consolida firme acima de US$ 63.000, enquanto o Ethereum defende os US$ 1.850. Altcoins como RENDER, IO e NEAR constroem fundos arredondados, sinalizando prontidão para a retomada do ímpeto.</p>"
+      },
+      "fr": {
+        "title": "Bilan hebdomadaire : Le BTC et l'ETH stabilisent leurs bases avant les données macro",
+        "excerpt": "Les crypto-actifs se stabilisent alors que les acheteurs défendent 63k BTC et 1.85k ETH.",
+        "content": "<p>Au terme de cette première semaine d'août, les marchés crypto montrent des signes de stabilisation technique. Le Bitcoin se consolide fermement au-dessus des 63 000 $, tandis que l'Ethereum conserve les 1 850 $. Les altcoins (RENDER, IO, NEAR) dessinent des structures de retournement haussier.</p>"
+      }
+    }
   }
 ]
 
